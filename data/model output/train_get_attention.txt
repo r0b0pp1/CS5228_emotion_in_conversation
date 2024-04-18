@@ -1,0 +1,194 @@
+----------------------------------------------------------------------------------------------------
+joy v.s. neutral
+F1 score is 0.7088607594936709.
+
+              precision    recall  f1-score   support
+
+     neutral       0.94      0.83      0.88      1256
+         joy       0.62      0.84      0.71       402
+
+    accuracy                           0.83      1658
+   macro avg       0.78      0.83      0.80      1658
+weighted avg       0.86      0.83      0.84      1658
+
+**Analyse important words**
+
+Text: Feeling happy today, hehe.
+Prediction: [-0.2976527810096741, 0.48687395453453064]
+Tokens: ['Fe', 'eling', 'Ġhappy', 'Ġtoday', ',', 'Ġhe', 'he', '.']
+Attention score of [CLS] token to input tokens at layer 12 (attention heads: [0, 5, 7]):
+[0.09900430589914322, 0.19126561284065247, 0.28188133239746094, 0.11292519420385361, 0.13229630887508392, 0.07198932766914368, 0.06734999269247055, 0.02910979464650154]
+Most important word: Ġhappy
+
+Attention score of [CLS] token to input tokens at layer 12 (attention heads: [0, 5, 7]):
+[0.11006584763526917, 0.11278491467237473, 0.15831029415130615, 0.13424822688102722, 0.12388287484645844, 0.08523161709308624, 0.07286317646503448, 0.09456876665353775]
+Most important word: Ġhappy
+
+Attention score of [CLS] token to input tokens at layer 12 (attention heads: [0, 5, 7]):
+[0.12459418922662735, 0.1723487675189972, 0.43149757385253906, 0.10425087064504623, 0.045540425926446915, 0.02758641354739666, 0.035311419516801834, 0.04042937234044075]
+Most important word: Ġhappy
+
+Text: This is so delicious
+Prediction: [-0.460612952709198, 0.6825795769691467]
+Tokens: ['This', 'Ġis', 'Ġso', 'Ġdelicious']
+Attention score of [CLS] token to input tokens at layer 12 (attention heads: [0, 5, 7]):
+[0.20749196410179138, 0.2349957972764969, 0.17803077399730682, 0.32594820857048035]
+Most important word: Ġdelicious
+
+Attention score of [CLS] token to input tokens at layer 12 (attention heads: [0, 5, 7]):
+[0.19207845628261566, 0.17471081018447876, 0.2036544680595398, 0.31636539101600647]
+Most important word: Ġdelicious
+
+Attention score of [CLS] token to input tokens at layer 12 (attention heads: [0, 5, 7]):
+[0.10466726869344711, 0.18231487274169922, 0.2745099365711212, 0.42180588841438293]
+Most important word: Ġdelicious
+
+Text: oh my gosh congratulations
+Prediction: [-0.57634037733078, 0.8313885927200317]
+Tokens: ['oh', 'Ġmy', 'Ġg', 'osh', 'Ġcongratulations']
+Attention score of [CLS] token to input tokens at layer 12 (attention heads: [0, 5, 7]):
+[0.15239407122135162, 0.16893960535526276, 0.150334894657135, 0.20676155388355255, 0.242832750082016]
+Most important word: Ġcongratulations
+
+Attention score of [CLS] token to input tokens at layer 12 (attention heads: [0, 5, 7]):
+[0.12535038590431213, 0.14516225457191467, 0.17415185272693634, 0.14023801684379578, 0.24720782041549683]
+Most important word: Ġcongratulations
+
+Attention score of [CLS] token to input tokens at layer 12 (attention heads: [0, 5, 7]):
+[0.16757942736148834, 0.18018674850463867, 0.19906963407993317, 0.19796627759933472, 0.23474642634391785]
+Most important word: Ġcongratulations
+----------------------------------------------------------------------------------------------------
+anger v.s. neutral
+F1 score is 0.6951219512195121.
+
+              precision    recall  f1-score   support
+
+     neutral       0.91      0.93      0.92      1256
+       anger       0.73      0.66      0.70       345
+
+    accuracy                           0.88      1601
+   macro avg       0.82      0.80      0.81      1601
+weighted avg       0.87      0.88      0.87      1601
+
+
+**Analyse important words**
+
+Text: what the fuck you are doing
+Prediction: [-0.8555232882499695, 0.6602898240089417]
+Tokens: ['what', 'Ġthe', 'Ġfuck', 'Ġyou', 'Ġare', 'Ġdoing']
+Attention score of [CLS] token to input tokens at layer 12 (attention heads: [5, 6, 7]):
+[0.15063054859638214, 0.12464723736047745, 0.18231487274169922, 0.16033262014389038, 0.14264331758022308, 0.08029485493898392]
+Most important word: Ġfuck
+
+Attention score of [CLS] token to input tokens at layer 12 (attention heads: [5, 6, 7]):
+[0.17485672235488892, 0.14154259860515594, 0.23673595488071442, 0.13547801971435547, 0.23467154800891876, 0.026062583550810814]
+Most important word: Ġfuck
+
+Attention score of [CLS] token to input tokens at layer 12 (attention heads: [5, 6, 7]):
+[0.1516244113445282, 0.13656698167324066, 0.2731449007987976, 0.16411003470420837, 0.19706788659095764, 0.02606753259897232]
+Most important word: Ġfuck
+
+Text: what the shit is this
+Prediction: [-0.8941978216171265, 0.6953549981117249]
+Tokens: ['what', 'Ġthe', 'Ġshit', 'Ġis', 'Ġthis']
+Attention score of [CLS] token to input tokens at layer 12 (attention heads: [5, 6, 7]):
+[0.14668889343738556, 0.13905970752239227, 0.17670950293540955, 0.15799742937088013, 0.1637158989906311]
+Most important word: Ġshit
+
+Attention score of [CLS] token to input tokens at layer 12 (attention heads: [5, 6, 7]):
+[0.1605074554681778, 0.18155193328857422, 0.20354968309402466, 0.16276918351650238, 0.20679378509521484]
+Most important word: Ġthis
+
+Attention score of [CLS] token to input tokens at layer 12 (attention heads: [5, 6, 7]):
+[0.16386686265468597, 0.18768776953220367, 0.24551180005073547, 0.1655956506729126, 0.1401047557592392]
+Most important word: Ġshit
+
+Text: i hate you alot
+Prediction: [-0.6053447127342224, 0.3985999822616577]
+Tokens: ['i', 'Ġhate', 'Ġyou', 'Ġalot']
+Attention score of [CLS] token to input tokens at layer 12 (attention heads: [5, 6, 7]):
+[0.2537485659122467, 0.20953920483589172, 0.1965031623840332, 0.28211402893066406]
+Most important word: Ġalot
+
+Attention score of [CLS] token to input tokens at layer 12 (attention heads: [5, 6, 7]):
+[0.11754268407821655, 0.21814638376235962, 0.11706069856882095, 0.48985952138900757]
+Most important word: Ġalot
+
+Attention score of [CLS] token to input tokens at layer 12 (attention heads: [5, 6, 7]):
+[0.18890470266342163, 0.1595446914434433, 0.17962323129177094, 0.4314572811126709]
+Most important word: Ġalot
+
+Text: what the hell is this
+Prediction: [-0.9062926173210144, 0.6789513826370239]
+Tokens: ['what', 'Ġthe', 'Ġhell', 'Ġis', 'Ġthis']
+Attention score of [CLS] token to input tokens at layer 12 (attention heads: [5, 6, 7]):
+[0.16238287091255188, 0.15010438859462738, 0.18151424825191498, 0.18251825869083405, 0.10819009691476822]
+Most important word: Ġis
+
+Attention score of [CLS] token to input tokens at layer 12 (attention heads: [5, 6, 7]):
+[0.16922692954540253, 0.19452635943889618, 0.2882399559020996, 0.20605722069740295, 0.0478961206972599]
+Most important word: Ġhell
+
+Attention score of [CLS] token to input tokens at layer 12 (attention heads: [5, 6, 7]):
+[0.1661071479320526, 0.2083553671836853, 0.3155811131000519, 0.19025343656539917, 0.04023023694753647]
+Most important word: Ġhell
+----------------------------------------------------------------------------------------------------
+surprise v.s. neutral
+F1 score is 0.6967559943582511.
+
+              precision    recall  f1-score   support
+
+     neutral       0.97      0.86      0.91      1256
+    surprise       0.58      0.88      0.70       281
+
+    accuracy                           0.86      1537
+   macro avg       0.77      0.87      0.80      1537
+weighted avg       0.90      0.86      0.87      1537
+
+
+**Analyse important words**
+
+Text: oh my gosh, what happened
+Prediction: [-1.1806594133377075, 1.0056713819503784]
+Tokens: ['oh', 'Ġmy', 'Ġg', 'osh', ',', 'Ġwhat', 'Ġhappened']
+Attention score of [CLS] token to input tokens at layer 12 (attention heads: [0, 1, 3]):
+[0.12303279340267181, 0.16115567088127136, 0.1266147941350937, 0.1260599046945572, 0.12198713421821594, 0.09872551262378693, 0.05428507924079895]
+Most important word: Ġmy
+
+Attention score of [CLS] token to input tokens at layer 12 (attention heads: [0, 1, 3]):
+[0.138901025056839, 0.1747979372739792, 0.13390299677848816, 0.21908004581928253, 0.06727159768342972, 0.08938128501176834, 0.08703652769327164]
+Most important word: osh
+
+Attention score of [CLS] token to input tokens at layer 12 (attention heads: [0, 1, 3]):
+[0.08637666702270508, 0.11871664971113205, 0.13869227468967438, 0.1710900366306305, 0.15029871463775635, 0.10934995859861374, 0.12128931283950806]
+Most important word: osh
+
+Text: wow this is a whole new level
+Prediction: [-1.0371745824813843, 0.9059591889381409]
+Tokens: ['wow', 'Ġthis', 'Ġis', 'Ġa', 'Ġwhole', 'Ġnew', 'Ġlevel']
+Attention score of [CLS] token to input tokens at layer 12 (attention heads: [0, 1, 3]):
+[0.4217182993888855, 0.09415309876203537, 0.11562494933605194, 0.08137329667806625, 0.07027599215507507, 0.08844687789678574, 0.0682426318526268]
+Most important word: wow
+
+Attention score of [CLS] token to input tokens at layer 12 (attention heads: [0, 1, 3]):
+[0.641650378704071, 0.05633584409952164, 0.042204324156045914, 0.04735559970140457, 0.05692136660218239, 0.05814049392938614, 0.06345570087432861]
+Most important word: wow
+
+Attention score of [CLS] token to input tokens at layer 12 (attention heads: [0, 1, 3]):
+[0.3360910415649414, 0.12233924865722656, 0.10363809019327164, 0.075199194252491, 0.07072798162698746, 0.0809682235121727, 0.05918178707361221]
+Most important word: wow
+
+Text: this is way too shocking
+Prediction: [-1.1026252508163452, 0.9196925163269043]
+Tokens: ['this', 'Ġis', 'Ġway', 'Ġtoo', 'Ġshocking']
+Attention score of [CLS] token to input tokens at layer 12 (attention heads: [0, 1, 3]):
+[0.15946561098098755, 0.17060978710651398, 0.2515510618686676, 0.15105822682380676, 0.19993439316749573]
+Most important word: Ġway
+
+Attention score of [CLS] token to input tokens at layer 12 (attention heads: [0, 1, 3]):
+[0.1648099273443222, 0.1522936373949051, 0.1807902753353119, 0.22638626396656036, 0.20308244228363037]
+Most important word: Ġtoo
+
+Attention score of [CLS] token to input tokens at layer 12 (attention heads: [0, 1, 3]):
+[0.1696738451719284, 0.172567680478096, 0.13917580246925354, 0.13495756685733795, 0.2417575567960739]
+Most important word: Ġshocking
