@@ -31,10 +31,10 @@
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Script | Contents |
 |---------------|:--------|:-----------|
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1S8Y_Y87lh7K8TGZF4erm17bo2Zx-bdqm?usp=sharing) | decision_trees.ipynb | Experiments on emotion classification with Decision Trees and Random Forests.  |
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1rhXR8DFGUbh8oqqQUC1UBN0dkOmUApUE/view?usp=sharing) | logistic_regression.ipynb | Experiments on emotion classification with Logistic Regression. |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kSzEwnC3tnWLN7ruEzzEQPuWf_46GeHe?usp=sharing) | logistic_regression.ipynb | Experiments on emotion classification with Logistic Regression. |
 
 ### Deep Learning Models
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Script | Contents |
 |---------------|:--------|:-----------|
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1aGr6XFTTV0iChHZbDDiW6kRB71keMU5a/view?usp=sharing) | deep_learn_dialogues.ipynb | Experiments on emotion classification at the dialogue level with CRF and RNN.  <br> For Upper-bound, please run trainer.py (detailed steps described in "deep_learn_dialogues.ipynb") |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fuY7fTGydp4WmSkN_s85WvtGd-BWuRVp?usp=sharing) | deep_learn_dialogues.ipynb | Experiments on emotion classification at the dialogue level with CRF and RNN.  <br> For Upper-bound, please run trainer.py (detailed steps described in "deep_learn_dialogues.ipynb") |
 | N/A | trainer.py | Run this file for the trainning and results of the Upper Bound (binary classification). |
