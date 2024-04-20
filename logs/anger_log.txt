@@ -1,0 +1,2312 @@
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at google-bert/bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+----------------------------------------------------------------------------------------------------
+Doing True_60_32_0.0003...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.56
+  Training epcoh took: 0:00:26
+
+Running Validation...
+  Valition F1 score: 0.54
+  Validation Loss: 0.52
+  Validation took: 0:00:02
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.62
+  Training epcoh took: 0:00:23
+
+Running Validation...
+  Valition F1 score: 0.62
+  Validation Loss: 0.50
+  Validation took: 0:00:02
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.52
+  Training epcoh took: 0:00:24
+
+Running Validation...
+  Valition F1 score: 0.62
+  Validation Loss: 0.49
+  Validation took: 0:00:02
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.51
+  Training epcoh took: 0:00:24
+
+Running Validation...
+  Valition F1 score: 0.62
+  Validation Loss: 0.48
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.51
+  Training epcoh took: 0:00:24
+
+Running Validation...
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at google-bert/bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.62
+  Validation Loss: 0.50
+  Validation took: 0:00:02
+
+Training complete!
+Total training took 0:02:11 (h:mm:ss)
+Best Epoch: 3, Best f1 val score: 0.6206896551724138.
+----------------------------------------------------------------------------------------------------
+Doing True_60_32_0.0001...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.52
+  Training epcoh took: 0:00:24
+
+Running Validation...
+  Valition F1 score: 0.65
+  Validation Loss: 0.46
+  Validation took: 0:00:02
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.40
+  Training epcoh took: 0:00:24
+
+Running Validation...
+  Valition F1 score: 0.66
+  Validation Loss: 0.49
+  Validation took: 0:00:02
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.29
+  Training epcoh took: 0:00:24
+
+Running Validation...
+  Valition F1 score: 0.68
+  Validation Loss: 0.44
+  Validation took: 0:00:02
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.19
+  Training epcoh took: 0:00:24
+
+Running Validation...
+  Valition F1 score: 0.68
+  Validation Loss: 0.58
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.10
+  Training epcoh took: 0:00:24
+
+Running Validation...
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at google-bert/bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.70
+  Validation Loss: 0.70
+  Validation took: 0:00:02
+
+Training complete!
+Total training took 0:02:10 (h:mm:ss)
+Best Epoch: 5, Best f1 val score: 0.6974063400576369.
+----------------------------------------------------------------------------------------------------
+Doing True_60_32_5e-05...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.53
+  Training epcoh took: 0:00:24
+
+Running Validation...
+  Valition F1 score: 0.65
+  Validation Loss: 0.50
+  Validation took: 0:00:02
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.40
+  Training epcoh took: 0:00:24
+
+Running Validation...
+  Valition F1 score: 0.69
+  Validation Loss: 0.41
+  Validation took: 0:00:02
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.28
+  Training epcoh took: 0:00:24
+
+Running Validation...
+  Valition F1 score: 0.68
+  Validation Loss: 0.47
+  Validation took: 0:00:02
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.17
+  Training epcoh took: 0:00:24
+
+Running Validation...
+  Valition F1 score: 0.70
+  Validation Loss: 0.49
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.11
+  Training epcoh took: 0:00:24
+
+Running Validation...
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at google-bert/bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.70
+  Validation Loss: 0.57
+  Validation took: 0:00:02
+
+Training complete!
+Total training took 0:02:10 (h:mm:ss)
+Best Epoch: 5, Best f1 val score: 0.7045454545454546.
+----------------------------------------------------------------------------------------------------
+Doing True_60_64_0.0003...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.56
+  Training epcoh took: 0:00:22
+
+Running Validation...
+  Valition F1 score: 0.65
+  Validation Loss: 0.44
+  Validation took: 0:00:02
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.46
+  Training epcoh took: 0:00:22
+
+Running Validation...
+  Valition F1 score: 0.62
+  Validation Loss: 0.51
+  Validation took: 0:00:02
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.41
+  Training epcoh took: 0:00:22
+
+Running Validation...
+  Valition F1 score: 0.58
+  Validation Loss: 0.63
+  Validation took: 0:00:02
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.34
+  Training epcoh took: 0:00:22
+
+Running Validation...
+  Valition F1 score: 0.67
+  Validation Loss: 0.43
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.23
+  Training epcoh took: 0:00:22
+
+Running Validation...
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at google-bert/bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.63
+  Validation Loss: 0.61
+  Validation took: 0:00:02
+
+Training complete!
+Total training took 0:01:59 (h:mm:ss)
+Best Epoch: 4, Best f1 val score: 0.668693009118541.
+----------------------------------------------------------------------------------------------------
+Doing True_60_64_0.0001...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.52
+  Training epcoh took: 0:00:22
+
+Running Validation...
+  Valition F1 score: 0.71
+  Validation Loss: 0.36
+  Validation took: 0:00:02
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.36
+  Training epcoh took: 0:00:22
+
+Running Validation...
+  Valition F1 score: 0.69
+  Validation Loss: 0.44
+  Validation took: 0:00:02
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.18
+  Training epcoh took: 0:00:22
+
+Running Validation...
+  Valition F1 score: 0.66
+  Validation Loss: 0.55
+  Validation took: 0:00:02
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.08
+  Training epcoh took: 0:00:22
+
+Running Validation...
+  Valition F1 score: 0.70
+  Validation Loss: 0.66
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.04
+  Training epcoh took: 0:00:22
+
+Running Validation...
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at google-bert/bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.70
+  Validation Loss: 0.76
+  Validation took: 0:00:02
+
+Training complete!
+Total training took 0:01:59 (h:mm:ss)
+Best Epoch: 1, Best f1 val score: 0.7090301003344481.
+----------------------------------------------------------------------------------------------------
+Doing True_60_64_5e-05...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.53
+  Training epcoh took: 0:00:22
+
+Running Validation...
+  Valition F1 score: 0.71
+  Validation Loss: 0.41
+  Validation took: 0:00:02
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.39
+  Training epcoh took: 0:00:22
+
+Running Validation...
+  Valition F1 score: 0.68
+  Validation Loss: 0.42
+  Validation took: 0:00:02
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.25
+  Training epcoh took: 0:00:22
+
+Running Validation...
+  Valition F1 score: 0.72
+  Validation Loss: 0.40
+  Validation took: 0:00:02
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.16
+  Training epcoh took: 0:00:22
+
+Running Validation...
+  Valition F1 score: 0.69
+  Validation Loss: 0.51
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.10
+  Training epcoh took: 0:00:22
+
+Running Validation...
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at google-bert/bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.70
+  Validation Loss: 0.51
+  Validation took: 0:00:02
+
+Training complete!
+Total training took 0:01:59 (h:mm:ss)
+Best Epoch: 3, Best f1 val score: 0.7174603174603175.
+----------------------------------------------------------------------------------------------------
+Doing True_60_128_0.0003...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.53
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.64
+  Validation Loss: 0.43
+  Validation took: 0:00:02
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.39
+  Training epcoh took: 0:00:20
+
+Running Validation...
+  Valition F1 score: 0.65
+  Validation Loss: 0.45
+  Validation took: 0:00:02
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.23
+  Training epcoh took: 0:00:20
+
+Running Validation...
+  Valition F1 score: 0.63
+  Validation Loss: 0.60
+  Validation took: 0:00:02
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.12
+  Training epcoh took: 0:00:20
+
+Running Validation...
+  Valition F1 score: 0.64
+  Validation Loss: 0.69
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.06
+  Training epcoh took: 0:00:21
+
+Running Validation...
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at google-bert/bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.70
+  Validation Loss: 0.70
+  Validation took: 0:00:02
+
+Training complete!
+Total training took 0:01:52 (h:mm:ss)
+Best Epoch: 5, Best f1 val score: 0.7035830618892508.
+----------------------------------------------------------------------------------------------------
+Doing True_60_128_0.0001...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.54
+  Training epcoh took: 0:00:20
+
+Running Validation...
+  Valition F1 score: 0.70
+  Validation Loss: 0.40
+  Validation took: 0:00:02
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.37
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.68
+  Validation Loss: 0.41
+  Validation took: 0:00:02
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.23
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.68
+  Validation Loss: 0.49
+  Validation took: 0:00:02
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.12
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.72
+  Validation Loss: 0.49
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.08
+  Training epcoh took: 0:00:21
+
+Running Validation...
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at google-bert/bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.71
+  Validation Loss: 0.54
+  Validation took: 0:00:02
+
+Training complete!
+Total training took 0:01:52 (h:mm:ss)
+Best Epoch: 4, Best f1 val score: 0.723404255319149.
+----------------------------------------------------------------------------------------------------
+Doing True_60_128_5e-05...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.57
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.67
+  Validation Loss: 0.44
+  Validation took: 0:00:02
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.41
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.70
+  Validation Loss: 0.39
+  Validation took: 0:00:02
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.31
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.62
+  Validation Loss: 0.56
+  Validation took: 0:00:02
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.23
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.70
+  Validation Loss: 0.41
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.16
+  Training epcoh took: 0:00:21
+
+Running Validation...
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at google-bert/bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.69
+  Validation Loss: 0.43
+  Validation took: 0:00:02
+
+Training complete!
+Total training took 0:01:53 (h:mm:ss)
+Best Epoch: 4, Best f1 val score: 0.6972477064220184.
+----------------------------------------------------------------------------------------------------
+Doing True_70_32_0.0003...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.57
+  Training epcoh took: 0:00:28
+
+Running Validation...
+  Valition F1 score: 0.28
+  Validation Loss: 0.64
+  Validation took: 0:00:03
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.60
+  Training epcoh took: 0:00:29
+
+Running Validation...
+  Valition F1 score: 0.62
+  Validation Loss: 0.56
+  Validation took: 0:00:03
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.52
+  Training epcoh took: 0:00:30
+
+Running Validation...
+  Valition F1 score: 0.62
+  Validation Loss: 0.54
+  Validation took: 0:00:03
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.52
+  Training epcoh took: 0:00:30
+
+Running Validation...
+  Valition F1 score: 0.62
+  Validation Loss: 0.51
+  Validation took: 0:00:03
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.51
+  Training epcoh took: 0:00:30
+
+Running Validation...
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at google-bert/bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.62
+  Validation Loss: 0.51
+  Validation took: 0:00:03
+
+Training complete!
+Total training took 0:02:39 (h:mm:ss)
+Best Epoch: 2, Best f1 val score: 0.6153846153846154.
+----------------------------------------------------------------------------------------------------
+Doing True_70_32_0.0001...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.54
+  Training epcoh took: 0:00:30
+
+Running Validation...
+  Valition F1 score: 0.63
+  Validation Loss: 0.54
+  Validation took: 0:00:03
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.45
+  Training epcoh took: 0:00:30
+
+Running Validation...
+  Valition F1 score: 0.69
+  Validation Loss: 0.41
+  Validation took: 0:00:03
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.34
+  Training epcoh took: 0:00:30
+
+Running Validation...
+  Valition F1 score: 0.64
+  Validation Loss: 0.49
+  Validation took: 0:00:03
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.19
+  Training epcoh took: 0:00:30
+
+Running Validation...
+  Valition F1 score: 0.66
+  Validation Loss: 0.62
+  Validation took: 0:00:03
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.11
+  Training epcoh took: 0:00:30
+
+Running Validation...
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at google-bert/bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.67
+  Validation Loss: 0.65
+  Validation took: 0:00:03
+
+Training complete!
+Total training took 0:02:42 (h:mm:ss)
+Best Epoch: 2, Best f1 val score: 0.6883116883116883.
+----------------------------------------------------------------------------------------------------
+Doing True_70_32_5e-05...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.53
+  Training epcoh took: 0:00:30
+
+Running Validation...
+  Valition F1 score: 0.72
+  Validation Loss: 0.39
+  Validation took: 0:00:03
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.35
+  Training epcoh took: 0:00:30
+
+Running Validation...
+  Valition F1 score: 0.70
+  Validation Loss: 0.39
+  Validation took: 0:00:03
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.20
+  Training epcoh took: 0:00:30
+
+Running Validation...
+  Valition F1 score: 0.65
+  Validation Loss: 0.57
+  Validation took: 0:00:03
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.11
+  Training epcoh took: 0:00:30
+
+Running Validation...
+  Valition F1 score: 0.70
+  Validation Loss: 0.60
+  Validation took: 0:00:03
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.07
+  Training epcoh took: 0:00:30
+
+Running Validation...
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at google-bert/bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.71
+  Validation Loss: 0.66
+  Validation took: 0:00:03
+
+Training complete!
+Total training took 0:02:42 (h:mm:ss)
+Best Epoch: 1, Best f1 val score: 0.718266253869969.
+----------------------------------------------------------------------------------------------------
+Doing True_70_64_0.0003...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.57
+  Training epcoh took: 0:00:27
+
+Running Validation...
+  Valition F1 score: 0.64
+  Validation Loss: 0.43
+  Validation took: 0:00:03
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.56
+  Training epcoh took: 0:00:27
+
+Running Validation...
+  Valition F1 score: 0.04
+  Validation Loss: 0.67
+  Validation took: 0:00:02
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.70
+  Training epcoh took: 0:00:27
+
+Running Validation...
+  Valition F1 score: 0.00
+  Validation Loss: 0.68
+  Validation took: 0:00:02
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.70
+  Training epcoh took: 0:00:27
+
+Running Validation...
+  Valition F1 score: 0.44
+  Validation Loss: 0.57
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.58
+  Training epcoh took: 0:00:27
+
+Running Validation...
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at google-bert/bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.61
+  Validation Loss: 0.55
+  Validation took: 0:00:03
+
+Training complete!
+Total training took 0:02:29 (h:mm:ss)
+Best Epoch: 1, Best f1 val score: 0.6367041198501873.
+----------------------------------------------------------------------------------------------------
+Doing True_70_64_0.0001...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.52
+  Training epcoh took: 0:00:27
+
+Running Validation...
+  Valition F1 score: 0.68
+  Validation Loss: 0.43
+  Validation took: 0:00:03
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.37
+  Training epcoh took: 0:00:28
+
+Running Validation...
+  Valition F1 score: 0.72
+  Validation Loss: 0.39
+  Validation took: 0:00:03
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.21
+  Training epcoh took: 0:00:27
+
+Running Validation...
+  Valition F1 score: 0.70
+  Validation Loss: 0.45
+  Validation took: 0:00:03
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.12
+  Training epcoh took: 0:00:27
+
+Running Validation...
+  Valition F1 score: 0.67
+  Validation Loss: 0.68
+  Validation took: 0:00:03
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.07
+  Training epcoh took: 0:00:26
+
+Running Validation...
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at google-bert/bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.71
+  Validation Loss: 0.61
+  Validation took: 0:00:02
+
+Training complete!
+Total training took 0:02:29 (h:mm:ss)
+Best Epoch: 2, Best f1 val score: 0.7168674698795181.
+----------------------------------------------------------------------------------------------------
+Doing True_70_64_5e-05...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.53
+  Training epcoh took: 0:00:26
+
+Running Validation...
+  Valition F1 score: 0.64
+  Validation Loss: 0.47
+  Validation took: 0:00:03
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.40
+  Training epcoh took: 0:00:26
+
+Running Validation...
+  Valition F1 score: 0.72
+  Validation Loss: 0.38
+  Validation took: 0:00:03
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.30
+  Training epcoh took: 0:00:26
+
+Running Validation...
+  Valition F1 score: 0.70
+  Validation Loss: 0.41
+  Validation took: 0:00:02
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.18
+  Training epcoh took: 0:00:26
+
+Running Validation...
+  Valition F1 score: 0.71
+  Validation Loss: 0.48
+  Validation took: 0:00:03
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.13
+  Training epcoh took: 0:00:27
+
+Running Validation...
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at google-bert/bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.69
+  Validation Loss: 0.51
+  Validation took: 0:00:03
+
+Training complete!
+Total training took 0:02:25 (h:mm:ss)
+Best Epoch: 2, Best f1 val score: 0.7156549520766773.
+----------------------------------------------------------------------------------------------------
+Doing True_70_128_0.0003...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.70
+  Training epcoh took: 0:00:26
+
+Running Validation...
+  Valition F1 score: 0.00
+  Validation Loss: 0.60
+  Validation took: 0:00:03
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.55
+  Training epcoh took: 0:00:27
+
+Running Validation...
+  Valition F1 score: 0.62
+  Validation Loss: 0.49
+  Validation took: 0:00:03
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.50
+  Training epcoh took: 0:00:26
+
+Running Validation...
+  Valition F1 score: 0.62
+  Validation Loss: 0.49
+  Validation took: 0:00:03
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.46
+  Training epcoh took: 0:00:27
+
+Running Validation...
+  Valition F1 score: 0.63
+  Validation Loss: 0.49
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.42
+  Training epcoh took: 0:00:25
+
+Running Validation...
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at google-bert/bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.64
+  Validation Loss: 0.47
+  Validation took: 0:00:02
+
+Training complete!
+Total training took 0:02:23 (h:mm:ss)
+Best Epoch: 5, Best f1 val score: 0.6438356164383562.
+----------------------------------------------------------------------------------------------------
+Doing True_70_128_0.0001...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.55
+  Training epcoh took: 0:00:25
+
+Running Validation...
+  Valition F1 score: 0.66
+  Validation Loss: 0.44
+  Validation took: 0:00:02
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.41
+  Training epcoh took: 0:00:25
+
+Running Validation...
+  Valition F1 score: 0.72
+  Validation Loss: 0.37
+  Validation took: 0:00:02
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.27
+  Training epcoh took: 0:00:25
+
+Running Validation...
+  Valition F1 score: 0.72
+  Validation Loss: 0.38
+  Validation took: 0:00:02
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.16
+  Training epcoh took: 0:00:25
+
+Running Validation...
+  Valition F1 score: 0.66
+  Validation Loss: 0.54
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.10
+  Training epcoh took: 0:00:25
+
+Running Validation...
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at google-bert/bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.70
+  Validation Loss: 0.55
+  Validation took: 0:00:02
+
+Training complete!
+Total training took 0:02:17 (h:mm:ss)
+Best Epoch: 2, Best f1 val score: 0.7241379310344828.
+----------------------------------------------------------------------------------------------------
+Doing True_70_128_5e-05...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.59
+  Training epcoh took: 0:00:26
+
+Running Validation...
+  Valition F1 score: 0.67
+  Validation Loss: 0.52
+  Validation took: 0:00:02
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.45
+  Training epcoh took: 0:00:26
+
+Running Validation...
+  Valition F1 score: 0.68
+  Validation Loss: 0.38
+  Validation took: 0:00:02
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.36
+  Training epcoh took: 0:00:26
+
+Running Validation...
+  Valition F1 score: 0.71
+  Validation Loss: 0.39
+  Validation took: 0:00:03
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.26
+  Training epcoh took: 0:00:26
+
+Running Validation...
+  Valition F1 score: 0.72
+  Validation Loss: 0.40
+  Validation took: 0:00:03
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.19
+  Training epcoh took: 0:00:26
+
+Running Validation...
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at google-bert/bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.69
+  Validation Loss: 0.44
+  Validation took: 0:00:03
+
+Training complete!
+Total training took 0:02:21 (h:mm:ss)
+Best Epoch: 4, Best f1 val score: 0.7189542483660131.
+----------------------------------------------------------------------------------------------------
+Doing False_60_32_0.0003...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.53
+  Training epcoh took: 0:00:25
+
+Running Validation...
+  Valition F1 score: 0.63
+  Validation Loss: 0.45
+  Validation took: 0:00:02
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.53
+  Training epcoh took: 0:00:25
+
+Running Validation...
+  Valition F1 score: 0.11
+  Validation Loss: 0.53
+  Validation took: 0:00:02
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.56
+  Training epcoh took: 0:00:25
+
+Running Validation...
+  Valition F1 score: 0.62
+  Validation Loss: 0.52
+  Validation took: 0:00:02
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.52
+  Training epcoh took: 0:00:25
+
+Running Validation...
+  Valition F1 score: 0.62
+  Validation Loss: 0.51
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.52
+  Training epcoh took: 0:00:25
+
+Running Validation...
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at google-bert/bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.62
+  Validation Loss: 0.52
+  Validation took: 0:00:02
+
+Training complete!
+Total training took 0:02:15 (h:mm:ss)
+Best Epoch: 1, Best f1 val score: 0.6311787072243346.
+----------------------------------------------------------------------------------------------------
+Doing False_60_32_0.0001...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.52
+  Training epcoh took: 0:00:25
+
+Running Validation...
+  Valition F1 score: 0.69
+  Validation Loss: 0.43
+  Validation took: 0:00:02
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.38
+  Training epcoh took: 0:00:25
+
+Running Validation...
+  Valition F1 score: 0.68
+  Validation Loss: 0.40
+  Validation took: 0:00:02
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.20
+  Training epcoh took: 0:00:25
+
+Running Validation...
+  Valition F1 score: 0.71
+  Validation Loss: 0.48
+  Validation took: 0:00:02
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.11
+  Training epcoh took: 0:00:25
+
+Running Validation...
+  Valition F1 score: 0.70
+  Validation Loss: 0.63
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.05
+  Training epcoh took: 0:00:25
+
+Running Validation...
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at google-bert/bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.70
+  Validation Loss: 0.72
+  Validation took: 0:00:02
+
+Training complete!
+Total training took 0:02:16 (h:mm:ss)
+Best Epoch: 3, Best f1 val score: 0.7087087087087087.
+----------------------------------------------------------------------------------------------------
+Doing False_60_32_5e-05...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.52
+  Training epcoh took: 0:00:25
+
+Running Validation...
+  Valition F1 score: 0.66
+  Validation Loss: 0.42
+  Validation took: 0:00:02
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.36
+  Training epcoh took: 0:00:25
+
+Running Validation...
+  Valition F1 score: 0.71
+  Validation Loss: 0.38
+  Validation took: 0:00:02
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.21
+  Training epcoh took: 0:00:25
+
+Running Validation...
+  Valition F1 score: 0.68
+  Validation Loss: 0.51
+  Validation took: 0:00:02
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.13
+  Training epcoh took: 0:00:25
+
+Running Validation...
+  Valition F1 score: 0.68
+  Validation Loss: 0.56
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.07
+  Training epcoh took: 0:00:25
+
+Running Validation...
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at google-bert/bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.69
+  Validation Loss: 0.62
+  Validation took: 0:00:02
+
+Training complete!
+Total training took 0:02:16 (h:mm:ss)
+Best Epoch: 2, Best f1 val score: 0.7142857142857143.
+----------------------------------------------------------------------------------------------------
+Doing False_60_64_0.0003...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.54
+  Training epcoh took: 0:00:23
+
+Running Validation...
+  Valition F1 score: 0.60
+  Validation Loss: 0.53
+  Validation took: 0:00:02
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.46
+  Training epcoh took: 0:00:23
+
+Running Validation...
+  Valition F1 score: 0.69
+  Validation Loss: 0.43
+  Validation took: 0:00:02
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.34
+  Training epcoh took: 0:00:23
+
+Running Validation...
+  Valition F1 score: 0.63
+  Validation Loss: 0.51
+  Validation took: 0:00:02
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.23
+  Training epcoh took: 0:00:23
+
+Running Validation...
+  Valition F1 score: 0.66
+  Validation Loss: 0.59
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.13
+  Training epcoh took: 0:00:23
+
+Running Validation...
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at google-bert/bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.66
+  Validation Loss: 0.69
+  Validation took: 0:00:02
+
+Training complete!
+Total training took 0:02:04 (h:mm:ss)
+Best Epoch: 2, Best f1 val score: 0.6912751677852349.
+----------------------------------------------------------------------------------------------------
+Doing False_60_64_0.0001...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.54
+  Training epcoh took: 0:00:23
+
+Running Validation...
+  Valition F1 score: 0.66
+  Validation Loss: 0.48
+  Validation took: 0:00:02
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.41
+  Training epcoh took: 0:00:23
+
+Running Validation...
+  Valition F1 score: 0.68
+  Validation Loss: 0.40
+  Validation took: 0:00:02
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.23
+  Training epcoh took: 0:00:22
+
+Running Validation...
+  Valition F1 score: 0.65
+  Validation Loss: 0.51
+  Validation took: 0:00:02
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.12
+  Training epcoh took: 0:00:22
+
+Running Validation...
+  Valition F1 score: 0.65
+  Validation Loss: 0.77
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.07
+  Training epcoh took: 0:00:22
+
+Running Validation...
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at google-bert/bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.68
+  Validation Loss: 0.65
+  Validation took: 0:00:02
+
+Training complete!
+Total training took 0:02:02 (h:mm:ss)
+Best Epoch: 5, Best f1 val score: 0.6819484240687679.
+----------------------------------------------------------------------------------------------------
+Doing False_60_64_5e-05...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.53
+  Training epcoh took: 0:00:22
+
+Running Validation...
+  Valition F1 score: 0.65
+  Validation Loss: 0.41
+  Validation took: 0:00:02
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.39
+  Training epcoh took: 0:00:22
+
+Running Validation...
+  Valition F1 score: 0.72
+  Validation Loss: 0.38
+  Validation took: 0:00:02
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.25
+  Training epcoh took: 0:00:22
+
+Running Validation...
+  Valition F1 score: 0.69
+  Validation Loss: 0.40
+  Validation took: 0:00:02
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.15
+  Training epcoh took: 0:00:22
+
+Running Validation...
+  Valition F1 score: 0.69
+  Validation Loss: 0.52
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.10
+  Training epcoh took: 0:00:22
+
+Running Validation...
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at google-bert/bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.70
+  Validation Loss: 0.53
+  Validation took: 0:00:02
+
+Training complete!
+Total training took 0:01:59 (h:mm:ss)
+Best Epoch: 2, Best f1 val score: 0.7165109034267912.
+----------------------------------------------------------------------------------------------------
+Doing False_60_128_0.0003...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.58
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.64
+  Validation Loss: 0.46
+  Validation took: 0:00:02
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.41
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.68
+  Validation Loss: 0.40
+  Validation took: 0:00:02
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.28
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.66
+  Validation Loss: 0.48
+  Validation took: 0:00:02
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.16
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.66
+  Validation Loss: 0.51
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.10
+  Training epcoh took: 0:00:21
+
+Running Validation...
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at google-bert/bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.66
+  Validation Loss: 0.63
+  Validation took: 0:00:02
+
+Training complete!
+Total training took 0:01:53 (h:mm:ss)
+Best Epoch: 2, Best f1 val score: 0.6842105263157895.
+----------------------------------------------------------------------------------------------------
+Doing False_60_128_0.0001...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.54
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.68
+  Validation Loss: 0.40
+  Validation took: 0:00:02
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.40
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.69
+  Validation Loss: 0.41
+  Validation took: 0:00:02
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.27
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.69
+  Validation Loss: 0.44
+  Validation took: 0:00:02
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.17
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.72
+  Validation Loss: 0.47
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.11
+  Training epcoh took: 0:00:21
+
+Running Validation...
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at google-bert/bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.69
+  Validation Loss: 0.52
+  Validation took: 0:00:02
+
+Training complete!
+Total training took 0:01:53 (h:mm:ss)
+Best Epoch: 4, Best f1 val score: 0.7171052631578947.
+----------------------------------------------------------------------------------------------------
+Doing False_60_128_5e-05...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.56
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.64
+  Validation Loss: 0.50
+  Validation took: 0:00:02
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.41
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.70
+  Validation Loss: 0.39
+  Validation took: 0:00:02
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.30
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.69
+  Validation Loss: 0.41
+  Validation took: 0:00:02
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.22
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.68
+  Validation Loss: 0.46
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.16
+  Training epcoh took: 0:00:21
+
+Running Validation...
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at google-bert/bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.68
+  Validation Loss: 0.47
+  Validation took: 0:00:02
+
+Training complete!
+Total training took 0:01:53 (h:mm:ss)
+Best Epoch: 2, Best f1 val score: 0.6978193146417445.
+----------------------------------------------------------------------------------------------------
+Doing False_70_32_0.0003...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.61
+  Training epcoh took: 0:00:29
+
+Running Validation...
+  Valition F1 score: 0.59
+  Validation Loss: 0.59
+  Validation took: 0:00:03
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.57
+  Training epcoh took: 0:00:28
+
+Running Validation...
+  Valition F1 score: 0.59
+  Validation Loss: 0.54
+  Validation took: 0:00:03
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.56
+  Training epcoh took: 0:00:28
+
+Running Validation...
+  Valition F1 score: 0.58
+  Validation Loss: 0.55
+  Validation took: 0:00:03
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.56
+  Training epcoh took: 0:00:28
+
+Running Validation...
+  Valition F1 score: 0.59
+  Validation Loss: 0.52
+  Validation took: 0:00:03
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.56
+  Training epcoh took: 0:00:28
+
+Running Validation...
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at google-bert/bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.59
+  Validation Loss: 0.54
+  Validation took: 0:00:03
+
+Training complete!
+Total training took 0:02:35 (h:mm:ss)
+Best Epoch: 4, Best f1 val score: 0.5923344947735192.
+----------------------------------------------------------------------------------------------------
+Doing False_70_32_0.0001...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.52
+  Training epcoh took: 0:00:29
+
+Running Validation...
+  Valition F1 score: 0.66
+  Validation Loss: 0.49
+  Validation took: 0:00:03
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.40
+  Training epcoh took: 0:00:29
+
+Running Validation...
+  Valition F1 score: 0.68
+  Validation Loss: 0.42
+  Validation took: 0:00:03
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.24
+  Training epcoh took: 0:00:28
+
+Running Validation...
+  Valition F1 score: 0.62
+  Validation Loss: 0.61
+  Validation took: 0:00:03
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.13
+  Training epcoh took: 0:00:29
+
+Running Validation...
+  Valition F1 score: 0.70
+  Validation Loss: 0.55
+  Validation took: 0:00:03
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.07
+  Training epcoh took: 0:00:28
+
+Running Validation...
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at google-bert/bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.69
+  Validation Loss: 0.68
+  Validation took: 0:00:03
+
+Training complete!
+Total training took 0:02:36 (h:mm:ss)
+Best Epoch: 4, Best f1 val score: 0.7021943573667712.
+----------------------------------------------------------------------------------------------------
+Doing False_70_32_5e-05...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.52
+  Training epcoh took: 0:00:28
+
+Running Validation...
+  Valition F1 score: 0.71
+  Validation Loss: 0.39
+  Validation took: 0:00:03
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.36
+  Training epcoh took: 0:00:29
+
+Running Validation...
+  Valition F1 score: 0.71
+  Validation Loss: 0.37
+  Validation took: 0:00:03
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.22
+  Training epcoh took: 0:00:28
+
+Running Validation...
+  Valition F1 score: 0.67
+  Validation Loss: 0.51
+  Validation took: 0:00:03
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.12
+  Training epcoh took: 0:00:29
+
+Running Validation...
+  Valition F1 score: 0.69
+  Validation Loss: 0.62
+  Validation took: 0:00:03
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.06
+  Training epcoh took: 0:00:28
+
+Running Validation...
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at google-bert/bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.71
+  Validation Loss: 0.67
+  Validation took: 0:00:03
+
+Training complete!
+Total training took 0:02:35 (h:mm:ss)
+Best Epoch: 2, Best f1 val score: 0.7133333333333334.
+----------------------------------------------------------------------------------------------------
+Doing False_70_64_0.0003...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.55
+  Training epcoh took: 0:00:26
+
+Running Validation...
+  Valition F1 score: 0.63
+  Validation Loss: 0.45
+  Validation took: 0:00:02
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.46
+  Training epcoh took: 0:00:26
+
+Running Validation...
+  Valition F1 score: 0.64
+  Validation Loss: 0.45
+  Validation took: 0:00:03
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.38
+  Training epcoh took: 0:00:26
+
+Running Validation...
+  Valition F1 score: 0.67
+  Validation Loss: 0.41
+  Validation took: 0:00:03
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.26
+  Training epcoh took: 0:00:26
+
+Running Validation...
+  Valition F1 score: 0.63
+  Validation Loss: 0.59
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.14
+  Training epcoh took: 0:00:26
+
+Running Validation...
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at google-bert/bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.67
+  Validation Loss: 0.58
+  Validation took: 0:00:02
+
+Training complete!
+Total training took 0:02:24 (h:mm:ss)
+Best Epoch: 3, Best f1 val score: 0.6710097719869706.
+----------------------------------------------------------------------------------------------------
+Doing False_70_64_0.0001...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.52
+  Training epcoh took: 0:00:26
+
+Running Validation...
+  Valition F1 score: 0.67
+  Validation Loss: 0.46
+  Validation took: 0:00:03
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.39
+  Training epcoh took: 0:00:26
+
+Running Validation...
+  Valition F1 score: 0.69
+  Validation Loss: 0.39
+  Validation took: 0:00:02
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.24
+  Training epcoh took: 0:00:26
+
+Running Validation...
+  Valition F1 score: 0.70
+  Validation Loss: 0.44
+  Validation took: 0:00:03
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.12
+  Training epcoh took: 0:00:26
+
+Running Validation...
+  Valition F1 score: 0.66
+  Validation Loss: 0.71
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.06
+  Training epcoh took: 0:00:26
+
+Running Validation...
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at google-bert/bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.69
+  Validation Loss: 0.70
+  Validation took: 0:00:02
+
+Training complete!
+Total training took 0:02:24 (h:mm:ss)
+Best Epoch: 3, Best f1 val score: 0.7041420118343196.
+----------------------------------------------------------------------------------------------------
+Doing False_70_64_5e-05...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.52
+  Training epcoh took: 0:00:26
+
+Running Validation...
+  Valition F1 score: 0.70
+  Validation Loss: 0.39
+  Validation took: 0:00:02
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.39
+  Training epcoh took: 0:00:26
+
+Running Validation...
+  Valition F1 score: 0.69
+  Validation Loss: 0.38
+  Validation took: 0:00:02
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.26
+  Training epcoh took: 0:00:26
+
+Running Validation...
+  Valition F1 score: 0.74
+  Validation Loss: 0.38
+  Validation took: 0:00:02
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.15
+  Training epcoh took: 0:00:26
+
+Running Validation...
+  Valition F1 score: 0.71
+  Validation Loss: 0.51
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.09
+  Training epcoh took: 0:00:26
+
+Running Validation...
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at google-bert/bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.70
+  Validation Loss: 0.54
+  Validation took: 0:00:03
+
+Training complete!
+Total training took 0:02:24 (h:mm:ss)
+Best Epoch: 3, Best f1 val score: 0.7354838709677419.
+----------------------------------------------------------------------------------------------------
+Doing False_70_128_0.0003...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.54
+  Training epcoh took: 0:00:25
+
+Running Validation...
+  Valition F1 score: 0.61
+  Validation Loss: 0.52
+  Validation took: 0:00:02
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.38
+  Training epcoh took: 0:00:25
+
+Running Validation...
+  Valition F1 score: 0.70
+  Validation Loss: 0.39
+  Validation took: 0:00:02
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.24
+  Training epcoh took: 0:00:25
+
+Running Validation...
+  Valition F1 score: 0.66
+  Validation Loss: 0.53
+  Validation took: 0:00:02
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.12
+  Training epcoh took: 0:00:25
+
+Running Validation...
+  Valition F1 score: 0.66
+  Validation Loss: 0.68
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.06
+  Training epcoh took: 0:00:25
+
+Running Validation...
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at google-bert/bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.66
+  Validation Loss: 0.73
+  Validation took: 0:00:02
+
+Training complete!
+Total training took 0:02:17 (h:mm:ss)
+Best Epoch: 2, Best f1 val score: 0.6978193146417445.
+----------------------------------------------------------------------------------------------------
+Doing False_70_128_0.0001...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.53
+  Training epcoh took: 0:00:25
+
+Running Validation...
+  Valition F1 score: 0.66
+  Validation Loss: 0.45
+  Validation took: 0:00:02
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.39
+  Training epcoh took: 0:00:25
+
+Running Validation...
+  Valition F1 score: 0.71
+  Validation Loss: 0.36
+  Validation took: 0:00:02
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.24
+  Training epcoh took: 0:00:25
+
+Running Validation...
+  Valition F1 score: 0.65
+  Validation Loss: 0.55
+  Validation took: 0:00:02
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.13
+  Training epcoh took: 0:00:25
+
+Running Validation...
+  Valition F1 score: 0.71
+  Validation Loss: 0.45
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.07
+  Training epcoh took: 0:00:25
+
+Running Validation...
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at google-bert/bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.69
+  Validation Loss: 0.52
+  Validation took: 0:00:02
+
+Training complete!
+Total training took 0:02:17 (h:mm:ss)
+Best Epoch: 4, Best f1 val score: 0.7147335423197492.
+----------------------------------------------------------------------------------------------------
+Doing False_70_128_5e-05...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.58
+  Training epcoh took: 0:00:25
+
+Running Validation...
+  Valition F1 score: 0.66
+  Validation Loss: 0.47
+  Validation took: 0:00:02
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.44
+  Training epcoh took: 0:00:25
+
+Running Validation...
+  Valition F1 score: 0.68
+  Validation Loss: 0.42
+  Validation took: 0:00:02
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.35
+  Training epcoh took: 0:00:25
+
+Running Validation...
+  Valition F1 score: 0.68
+  Validation Loss: 0.42
+  Validation took: 0:00:02
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.26
+  Training epcoh took: 0:00:25
+
+Running Validation...
+  Valition F1 score: 0.68
+  Validation Loss: 0.43
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.19
+  Training epcoh took: 0:00:25
+
+Running Validation...
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at google-bert/bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.70
+  Validation Loss: 0.43
+  Validation took: 0:00:02
+
+Training complete!
+Total training took 0:02:16 (h:mm:ss)
+Best Epoch: 5, Best f1 val score: 0.6987951807228916.
+
+Best Parameters are:
+{'raw': False, 'max_len': 70, 'batch_size': 64, 'lr': 5e-05, 'epochs': 3}
+
+
+======== Epoch 1 / 3 ========
+Training...
+
+  Average training loss: 0.63
+  Training epcoh took: 0:00:32
+
+======== Epoch 2 / 3 ========
+Training...
+
+  Average training loss: 0.47
+  Training epcoh took: 0:00:32
+
+======== Epoch 3 / 3 ========
+Training...
+
+  Average training loss: 0.32
+  Training epcoh took: 0:00:32
+
+Training complete!
+Total training took 0:01:37 (h:mm:ss)
+Best Epoch: None, Best f1 val score: None.
+Number of test sentences: 1,601
+
+DONE.
+
+Test F1 score is 0.5115151515151515
+
+Test Classification Report is:
+              precision    recall  f1-score   support
+
+     neutral       0.88      0.79      0.83      1256
+       anger       0.44      0.61      0.51       345
+
+    accuracy                           0.75      1601
+   macro avg       0.66      0.70      0.67      1601
+weighted avg       0.79      0.75      0.76      1601
+

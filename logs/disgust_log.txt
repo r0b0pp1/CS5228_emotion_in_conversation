@@ -1,0 +1,2318 @@
+Some weights of RobertaForSequenceClassification were not initialized from the model checkpoint at /home/users/nus/e1329380/scratch/models/models--FacebookAI--roberta-base/snapshots/e2da8e2f811d1448a5b465c236feacd80ffbac7b and are newly initialized: ['classifier.dense.bias', 'classifier.dense.weight', 'classifier.out_proj.bias', 'classifier.out_proj.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+----------------------------------------------------------------------------------------------------
+Doing True_60_32_0.0003...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.70
+  Training epcoh took: 0:00:15
+
+Running Validation...
+  Valition F1 score: 0.09
+  Validation Loss: 0.70
+  Validation took: 0:00:01
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.70
+  Training epcoh took: 0:00:14
+
+Running Validation...
+  Valition F1 score: 0.00
+  Validation Loss: 0.62
+  Validation took: 0:00:01
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.70
+  Training epcoh took: 0:00:14
+
+Running Validation...
+  Valition F1 score: 0.00
+  Validation Loss: 0.65
+  Validation took: 0:00:01
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.70
+  Training epcoh took: 0:00:14
+
+Running Validation...
+  Valition F1 score: 0.00
+  Validation Loss: 0.67
+  Validation took: 0:00:01
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.69
+  Training epcoh took: 0:00:14
+
+Running Validation...
+Some weights of RobertaForSequenceClassification were not initialized from the model checkpoint at /home/users/nus/e1329380/scratch/models/models--FacebookAI--roberta-base/snapshots/e2da8e2f811d1448a5b465c236feacd80ffbac7b and are newly initialized: ['classifier.dense.bias', 'classifier.dense.weight', 'classifier.out_proj.bias', 'classifier.out_proj.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.00
+  Validation Loss: 0.67
+  Validation took: 0:00:01
+
+Training complete!
+Total training took 0:01:18 (h:mm:ss)
+Best Epoch: 1, Best f1 val score: 0.08560311284046693.
+----------------------------------------------------------------------------------------------------
+Doing True_60_32_0.0001...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.59
+  Training epcoh took: 0:00:14
+
+Running Validation...
+  Valition F1 score: 0.43
+  Validation Loss: 0.32
+  Validation took: 0:00:01
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.31
+  Training epcoh took: 0:00:14
+
+Running Validation...
+  Valition F1 score: 0.36
+  Validation Loss: 0.25
+  Validation took: 0:00:01
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.18
+  Training epcoh took: 0:00:14
+
+Running Validation...
+  Valition F1 score: 0.49
+  Validation Loss: 0.22
+  Validation took: 0:00:01
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.10
+  Training epcoh took: 0:00:14
+
+Running Validation...
+  Valition F1 score: 0.50
+  Validation Loss: 0.23
+  Validation took: 0:00:01
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.06
+  Training epcoh took: 0:00:14
+
+Running Validation...
+Some weights of RobertaForSequenceClassification were not initialized from the model checkpoint at /home/users/nus/e1329380/scratch/models/models--FacebookAI--roberta-base/snapshots/e2da8e2f811d1448a5b465c236feacd80ffbac7b and are newly initialized: ['classifier.dense.bias', 'classifier.dense.weight', 'classifier.out_proj.bias', 'classifier.out_proj.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.49
+  Validation Loss: 0.26
+  Validation took: 0:00:01
+
+Training complete!
+Total training took 0:01:17 (h:mm:ss)
+Best Epoch: 4, Best f1 val score: 0.5.
+----------------------------------------------------------------------------------------------------
+Doing True_60_32_5e-05...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.53
+  Training epcoh took: 0:00:15
+
+Running Validation...
+  Valition F1 score: 0.29
+  Validation Loss: 0.49
+  Validation took: 0:00:01
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.25
+  Training epcoh took: 0:00:15
+
+Running Validation...
+  Valition F1 score: 0.47
+  Validation Loss: 0.20
+  Validation took: 0:00:01
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.14
+  Training epcoh took: 0:00:14
+
+Running Validation...
+  Valition F1 score: 0.51
+  Validation Loss: 0.20
+  Validation took: 0:00:01
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.08
+  Training epcoh took: 0:00:15
+
+Running Validation...
+  Valition F1 score: 0.50
+  Validation Loss: 0.29
+  Validation took: 0:00:01
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.06
+  Training epcoh took: 0:00:14
+
+Running Validation...
+Some weights of RobertaForSequenceClassification were not initialized from the model checkpoint at /home/users/nus/e1329380/scratch/models/models--FacebookAI--roberta-base/snapshots/e2da8e2f811d1448a5b465c236feacd80ffbac7b and are newly initialized: ['classifier.dense.bias', 'classifier.dense.weight', 'classifier.out_proj.bias', 'classifier.out_proj.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.46
+  Validation Loss: 0.29
+  Validation took: 0:00:01
+
+Training complete!
+Total training took 0:01:18 (h:mm:ss)
+Best Epoch: 3, Best f1 val score: 0.5116279069767442.
+----------------------------------------------------------------------------------------------------
+Doing True_60_64_0.0003...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.74
+  Training epcoh took: 0:00:14
+
+Running Validation...
+  Valition F1 score: 0.09
+  Validation Loss: 0.69
+  Validation took: 0:00:01
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.70
+  Training epcoh took: 0:00:13
+
+Running Validation...
+  Valition F1 score: 0.09
+  Validation Loss: 0.76
+  Validation took: 0:00:01
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.70
+  Training epcoh took: 0:00:13
+
+Running Validation...
+  Valition F1 score: 0.00
+  Validation Loss: 0.66
+  Validation took: 0:00:01
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.69
+  Training epcoh took: 0:00:12
+
+Running Validation...
+  Valition F1 score: 0.00
+  Validation Loss: 0.68
+  Validation took: 0:00:01
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.70
+  Training epcoh took: 0:00:13
+
+Running Validation...
+Some weights of RobertaForSequenceClassification were not initialized from the model checkpoint at /home/users/nus/e1329380/scratch/models/models--FacebookAI--roberta-base/snapshots/e2da8e2f811d1448a5b465c236feacd80ffbac7b and are newly initialized: ['classifier.dense.bias', 'classifier.dense.weight', 'classifier.out_proj.bias', 'classifier.out_proj.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.00
+  Validation Loss: 0.69
+  Validation took: 0:00:01
+
+Training complete!
+Total training took 0:01:09 (h:mm:ss)
+Best Epoch: 1, Best f1 val score: 0.08560311284046693.
+----------------------------------------------------------------------------------------------------
+Doing True_60_64_0.0001...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.52
+  Training epcoh took: 0:00:13
+
+Running Validation...
+  Valition F1 score: 0.37
+  Validation Loss: 0.25
+  Validation took: 0:00:01
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.24
+  Training epcoh took: 0:00:13
+
+Running Validation...
+  Valition F1 score: 0.49
+  Validation Loss: 0.17
+  Validation took: 0:00:01
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.13
+  Training epcoh took: 0:00:13
+
+Running Validation...
+  Valition F1 score: 0.39
+  Validation Loss: 0.34
+  Validation took: 0:00:01
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.06
+  Training epcoh took: 0:00:12
+
+Running Validation...
+  Valition F1 score: 0.59
+  Validation Loss: 0.24
+  Validation took: 0:00:01
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.04
+  Training epcoh took: 0:00:13
+
+Running Validation...
+Some weights of RobertaForSequenceClassification were not initialized from the model checkpoint at /home/users/nus/e1329380/scratch/models/models--FacebookAI--roberta-base/snapshots/e2da8e2f811d1448a5b465c236feacd80ffbac7b and are newly initialized: ['classifier.dense.bias', 'classifier.dense.weight', 'classifier.out_proj.bias', 'classifier.out_proj.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.55
+  Validation Loss: 0.24
+  Validation took: 0:00:01
+
+Training complete!
+Total training took 0:01:09 (h:mm:ss)
+Best Epoch: 4, Best f1 val score: 0.5925925925925926.
+----------------------------------------------------------------------------------------------------
+Doing True_60_64_5e-05...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.58
+  Training epcoh took: 0:00:13
+
+Running Validation...
+  Valition F1 score: 0.50
+  Validation Loss: 0.20
+  Validation took: 0:00:01
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.26
+  Training epcoh took: 0:00:13
+
+Running Validation...
+  Valition F1 score: 0.43
+  Validation Loss: 0.23
+  Validation took: 0:00:01
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.12
+  Training epcoh took: 0:00:13
+
+Running Validation...
+  Valition F1 score: 0.48
+  Validation Loss: 0.21
+  Validation took: 0:00:01
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.06
+  Training epcoh took: 0:00:12
+
+Running Validation...
+  Valition F1 score: 0.46
+  Validation Loss: 0.30
+  Validation took: 0:00:01
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.04
+  Training epcoh took: 0:00:13
+
+Running Validation...
+Some weights of RobertaForSequenceClassification were not initialized from the model checkpoint at /home/users/nus/e1329380/scratch/models/models--FacebookAI--roberta-base/snapshots/e2da8e2f811d1448a5b465c236feacd80ffbac7b and are newly initialized: ['classifier.dense.bias', 'classifier.dense.weight', 'classifier.out_proj.bias', 'classifier.out_proj.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.47
+  Validation Loss: 0.31
+  Validation took: 0:00:01
+
+Training complete!
+Total training took 0:01:09 (h:mm:ss)
+Best Epoch: 1, Best f1 val score: 0.5.
+----------------------------------------------------------------------------------------------------
+Doing True_60_128_0.0003...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.61
+  Training epcoh took: 0:00:12
+
+Running Validation...
+  Valition F1 score: 0.35
+  Validation Loss: 0.36
+  Validation took: 0:00:01
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.35
+  Training epcoh took: 0:00:12
+
+Running Validation...
+  Valition F1 score: 0.34
+  Validation Loss: 0.47
+  Validation took: 0:00:01
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.19
+  Training epcoh took: 0:00:12
+
+Running Validation...
+  Valition F1 score: 0.50
+  Validation Loss: 0.17
+  Validation took: 0:00:01
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.13
+  Training epcoh took: 0:00:13
+
+Running Validation...
+  Valition F1 score: 0.42
+  Validation Loss: 0.29
+  Validation took: 0:00:01
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.07
+  Training epcoh took: 0:00:17
+
+Running Validation...
+Some weights of RobertaForSequenceClassification were not initialized from the model checkpoint at /home/users/nus/e1329380/scratch/models/models--FacebookAI--roberta-base/snapshots/e2da8e2f811d1448a5b465c236feacd80ffbac7b and are newly initialized: ['classifier.dense.bias', 'classifier.dense.weight', 'classifier.out_proj.bias', 'classifier.out_proj.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.52
+  Validation Loss: 0.21
+  Validation took: 0:00:01
+
+Training complete!
+Total training took 0:01:12 (h:mm:ss)
+Best Epoch: 5, Best f1 val score: 0.5161290322580645.
+----------------------------------------------------------------------------------------------------
+Doing True_60_128_0.0001...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.62
+  Training epcoh took: 0:00:17
+
+Running Validation...
+  Valition F1 score: 0.25
+  Validation Loss: 0.48
+  Validation took: 0:00:01
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.29
+  Training epcoh took: 0:00:17
+
+Running Validation...
+  Valition F1 score: 0.46
+  Validation Loss: 0.27
+  Validation took: 0:00:01
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.14
+  Training epcoh took: 0:00:17
+
+Running Validation...
+  Valition F1 score: 0.36
+  Validation Loss: 0.30
+  Validation took: 0:00:01
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.07
+  Training epcoh took: 0:00:17
+
+Running Validation...
+  Valition F1 score: 0.54
+  Validation Loss: 0.21
+  Validation took: 0:00:01
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.03
+  Training epcoh took: 0:00:17
+
+Running Validation...
+Some weights of RobertaForSequenceClassification were not initialized from the model checkpoint at /home/users/nus/e1329380/scratch/models/models--FacebookAI--roberta-base/snapshots/e2da8e2f811d1448a5b465c236feacd80ffbac7b and are newly initialized: ['classifier.dense.bias', 'classifier.dense.weight', 'classifier.out_proj.bias', 'classifier.out_proj.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.56
+  Validation Loss: 0.25
+  Validation took: 0:00:01
+
+Training complete!
+Total training took 0:01:32 (h:mm:ss)
+Best Epoch: 5, Best f1 val score: 0.56.
+----------------------------------------------------------------------------------------------------
+Doing True_60_128_5e-05...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.60
+  Training epcoh took: 0:00:17
+
+Running Validation...
+  Valition F1 score: 0.35
+  Validation Loss: 0.36
+  Validation took: 0:00:02
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.31
+  Training epcoh took: 0:00:17
+
+Running Validation...
+  Valition F1 score: 0.35
+  Validation Loss: 0.38
+  Validation took: 0:00:01
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.14
+  Training epcoh took: 0:00:17
+
+Running Validation...
+  Valition F1 score: 0.46
+  Validation Loss: 0.26
+  Validation took: 0:00:01
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.08
+  Training epcoh took: 0:00:17
+
+Running Validation...
+  Valition F1 score: 0.52
+  Validation Loss: 0.18
+  Validation took: 0:00:01
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.04
+  Training epcoh took: 0:00:17
+
+Running Validation...
+Some weights of RobertaForSequenceClassification were not initialized from the model checkpoint at /home/users/nus/e1329380/scratch/models/models--FacebookAI--roberta-base/snapshots/e2da8e2f811d1448a5b465c236feacd80ffbac7b and are newly initialized: ['classifier.dense.bias', 'classifier.dense.weight', 'classifier.out_proj.bias', 'classifier.out_proj.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.52
+  Validation Loss: 0.20
+  Validation took: 0:00:01
+
+Training complete!
+Total training took 0:01:32 (h:mm:ss)
+Best Epoch: 4, Best f1 val score: 0.52.
+----------------------------------------------------------------------------------------------------
+Doing True_70_32_0.0003...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.71
+  Training epcoh took: 0:00:23
+
+Running Validation...
+  Valition F1 score: 0.09
+  Validation Loss: 0.77
+  Validation took: 0:00:02
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.70
+  Training epcoh took: 0:00:23
+
+Running Validation...
+  Valition F1 score: 0.09
+  Validation Loss: 0.70
+  Validation took: 0:00:02
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.70
+  Training epcoh took: 0:00:23
+
+Running Validation...
+  Valition F1 score: 0.09
+  Validation Loss: 0.72
+  Validation took: 0:00:02
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.70
+  Training epcoh took: 0:00:23
+
+Running Validation...
+  Valition F1 score: 0.09
+  Validation Loss: 0.73
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.69
+  Training epcoh took: 0:00:23
+
+Running Validation...
+Some weights of RobertaForSequenceClassification were not initialized from the model checkpoint at /home/users/nus/e1329380/scratch/models/models--FacebookAI--roberta-base/snapshots/e2da8e2f811d1448a5b465c236feacd80ffbac7b and are newly initialized: ['classifier.dense.bias', 'classifier.dense.weight', 'classifier.out_proj.bias', 'classifier.out_proj.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.00
+  Validation Loss: 0.67
+  Validation took: 0:00:02
+
+Training complete!
+Total training took 0:02:04 (h:mm:ss)
+Best Epoch: 1, Best f1 val score: 0.08560311284046693.
+----------------------------------------------------------------------------------------------------
+Doing True_70_32_0.0001...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.52
+  Training epcoh took: 0:00:23
+
+Running Validation...
+  Valition F1 score: 0.25
+  Validation Loss: 0.54
+  Validation took: 0:00:02
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.25
+  Training epcoh took: 0:00:23
+
+Running Validation...
+  Valition F1 score: 0.45
+  Validation Loss: 0.26
+  Validation took: 0:00:02
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.12
+  Training epcoh took: 0:00:23
+
+Running Validation...
+  Valition F1 score: 0.40
+  Validation Loss: 0.38
+  Validation took: 0:00:02
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.08
+  Training epcoh took: 0:00:23
+
+Running Validation...
+  Valition F1 score: 0.54
+  Validation Loss: 0.26
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.04
+  Training epcoh took: 0:00:23
+
+Running Validation...
+Some weights of RobertaForSequenceClassification were not initialized from the model checkpoint at /home/users/nus/e1329380/scratch/models/models--FacebookAI--roberta-base/snapshots/e2da8e2f811d1448a5b465c236feacd80ffbac7b and are newly initialized: ['classifier.dense.bias', 'classifier.dense.weight', 'classifier.out_proj.bias', 'classifier.out_proj.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.54
+  Validation Loss: 0.26
+  Validation took: 0:00:02
+
+Training complete!
+Total training took 0:02:04 (h:mm:ss)
+Best Epoch: 4, Best f1 val score: 0.5384615384615384.
+----------------------------------------------------------------------------------------------------
+Doing True_70_32_5e-05...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.51
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.53
+  Validation Loss: 0.16
+  Validation took: 0:00:02
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.22
+  Training epcoh took: 0:00:22
+
+Running Validation...
+  Valition F1 score: 0.52
+  Validation Loss: 0.17
+  Validation took: 0:00:02
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.10
+  Training epcoh took: 0:00:22
+
+Running Validation...
+  Valition F1 score: 0.44
+  Validation Loss: 0.35
+  Validation took: 0:00:02
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.07
+  Training epcoh took: 0:00:22
+
+Running Validation...
+  Valition F1 score: 0.50
+  Validation Loss: 0.28
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.03
+  Training epcoh took: 0:00:23
+
+Running Validation...
+Some weights of RobertaForSequenceClassification were not initialized from the model checkpoint at /home/users/nus/e1329380/scratch/models/models--FacebookAI--roberta-base/snapshots/e2da8e2f811d1448a5b465c236feacd80ffbac7b and are newly initialized: ['classifier.dense.bias', 'classifier.dense.weight', 'classifier.out_proj.bias', 'classifier.out_proj.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.49
+  Validation Loss: 0.29
+  Validation took: 0:00:02
+
+Training complete!
+Total training took 0:01:59 (h:mm:ss)
+Best Epoch: 1, Best f1 val score: 0.5306122448979592.
+----------------------------------------------------------------------------------------------------
+Doing True_70_64_0.0003...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.70
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.09
+  Validation Loss: 0.71
+  Validation took: 0:00:02
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.67
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.29
+  Validation Loss: 0.57
+  Validation took: 0:00:02
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.64
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.30
+  Validation Loss: 0.54
+  Validation took: 0:00:02
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.69
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.00
+  Validation Loss: 0.56
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.70
+  Training epcoh took: 0:00:21
+
+Running Validation...
+Some weights of RobertaForSequenceClassification were not initialized from the model checkpoint at /home/users/nus/e1329380/scratch/models/models--FacebookAI--roberta-base/snapshots/e2da8e2f811d1448a5b465c236feacd80ffbac7b and are newly initialized: ['classifier.dense.bias', 'classifier.dense.weight', 'classifier.out_proj.bias', 'classifier.out_proj.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.09
+  Validation Loss: 0.72
+  Validation took: 0:00:02
+
+Training complete!
+Total training took 0:01:53 (h:mm:ss)
+Best Epoch: 3, Best f1 val score: 0.30434782608695654.
+----------------------------------------------------------------------------------------------------
+Doing True_70_64_0.0001...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.53
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.44
+  Validation Loss: 0.22
+  Validation took: 0:00:02
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.24
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.52
+  Validation Loss: 0.20
+  Validation took: 0:00:02
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.10
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.53
+  Validation Loss: 0.19
+  Validation took: 0:00:02
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.07
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.58
+  Validation Loss: 0.25
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.03
+  Training epcoh took: 0:00:20
+
+Running Validation...
+Some weights of RobertaForSequenceClassification were not initialized from the model checkpoint at /home/users/nus/e1329380/scratch/models/models--FacebookAI--roberta-base/snapshots/e2da8e2f811d1448a5b465c236feacd80ffbac7b and are newly initialized: ['classifier.dense.bias', 'classifier.dense.weight', 'classifier.out_proj.bias', 'classifier.out_proj.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.57
+  Validation Loss: 0.25
+  Validation took: 0:00:02
+
+Training complete!
+Total training took 0:01:53 (h:mm:ss)
+Best Epoch: 4, Best f1 val score: 0.5818181818181818.
+----------------------------------------------------------------------------------------------------
+Doing True_70_64_5e-05...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.58
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.44
+  Validation Loss: 0.18
+  Validation took: 0:00:02
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.27
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.48
+  Validation Loss: 0.21
+  Validation took: 0:00:02
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.12
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.51
+  Validation Loss: 0.18
+  Validation took: 0:00:02
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.08
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.46
+  Validation Loss: 0.22
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.05
+  Training epcoh took: 0:00:21
+
+Running Validation...
+Some weights of RobertaForSequenceClassification were not initialized from the model checkpoint at /home/users/nus/e1329380/scratch/models/models--FacebookAI--roberta-base/snapshots/e2da8e2f811d1448a5b465c236feacd80ffbac7b and are newly initialized: ['classifier.dense.bias', 'classifier.dense.weight', 'classifier.out_proj.bias', 'classifier.out_proj.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.44
+  Validation Loss: 0.23
+  Validation took: 0:00:02
+
+Training complete!
+Total training took 0:01:54 (h:mm:ss)
+Best Epoch: 3, Best f1 val score: 0.5128205128205128.
+----------------------------------------------------------------------------------------------------
+Doing True_70_128_0.0003...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.64
+  Training epcoh took: 0:00:19
+
+Running Validation...
+  Valition F1 score: 0.25
+  Validation Loss: 0.48
+  Validation took: 0:00:02
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.43
+  Training epcoh took: 0:00:20
+
+Running Validation...
+  Valition F1 score: 0.38
+  Validation Loss: 0.22
+  Validation took: 0:00:02
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.27
+  Training epcoh took: 0:00:20
+
+Running Validation...
+  Valition F1 score: 0.26
+  Validation Loss: 0.54
+  Validation took: 0:00:02
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.13
+  Training epcoh took: 0:00:20
+
+Running Validation...
+  Valition F1 score: 0.29
+  Validation Loss: 0.62
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.08
+  Training epcoh took: 0:00:18
+
+Running Validation...
+Some weights of RobertaForSequenceClassification were not initialized from the model checkpoint at /home/users/nus/e1329380/scratch/models/models--FacebookAI--roberta-base/snapshots/e2da8e2f811d1448a5b465c236feacd80ffbac7b and are newly initialized: ['classifier.dense.bias', 'classifier.dense.weight', 'classifier.out_proj.bias', 'classifier.out_proj.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.39
+  Validation Loss: 0.44
+  Validation took: 0:00:02
+
+Training complete!
+Total training took 0:01:46 (h:mm:ss)
+Best Epoch: 5, Best f1 val score: 0.39473684210526316.
+----------------------------------------------------------------------------------------------------
+Doing True_70_128_0.0001...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.56
+  Training epcoh took: 0:00:18
+
+Running Validation...
+  Valition F1 score: 0.27
+  Validation Loss: 0.42
+  Validation took: 0:00:02
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.26
+  Training epcoh took: 0:00:19
+
+Running Validation...
+  Valition F1 score: 0.38
+  Validation Loss: 0.24
+  Validation took: 0:00:02
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.15
+  Training epcoh took: 0:00:18
+
+Running Validation...
+  Valition F1 score: 0.34
+  Validation Loss: 0.32
+  Validation took: 0:00:02
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.09
+  Training epcoh took: 0:00:19
+
+Running Validation...
+  Valition F1 score: 0.39
+  Validation Loss: 0.44
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.06
+  Training epcoh took: 0:00:19
+
+Running Validation...
+Some weights of RobertaForSequenceClassification were not initialized from the model checkpoint at /home/users/nus/e1329380/scratch/models/models--FacebookAI--roberta-base/snapshots/e2da8e2f811d1448a5b465c236feacd80ffbac7b and are newly initialized: ['classifier.dense.bias', 'classifier.dense.weight', 'classifier.out_proj.bias', 'classifier.out_proj.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.44
+  Validation Loss: 0.23
+  Validation took: 0:00:02
+
+Training complete!
+Total training took 0:01:42 (h:mm:ss)
+Best Epoch: 5, Best f1 val score: 0.4444444444444444.
+----------------------------------------------------------------------------------------------------
+Doing True_70_128_5e-05...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.63
+  Training epcoh took: 0:00:19
+
+Running Validation...
+  Valition F1 score: 0.29
+  Validation Loss: 0.43
+  Validation took: 0:00:02
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.35
+  Training epcoh took: 0:00:19
+
+Running Validation...
+  Valition F1 score: 0.33
+  Validation Loss: 0.35
+  Validation took: 0:00:02
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.15
+  Training epcoh took: 0:00:19
+
+Running Validation...
+  Valition F1 score: 0.45
+  Validation Loss: 0.21
+  Validation took: 0:00:02
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.09
+  Training epcoh took: 0:00:19
+
+Running Validation...
+  Valition F1 score: 0.50
+  Validation Loss: 0.22
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.04
+  Training epcoh took: 0:00:19
+
+Running Validation...
+Some weights of RobertaForSequenceClassification were not initialized from the model checkpoint at /home/users/nus/e1329380/scratch/models/models--FacebookAI--roberta-base/snapshots/e2da8e2f811d1448a5b465c236feacd80ffbac7b and are newly initialized: ['classifier.dense.bias', 'classifier.dense.weight', 'classifier.out_proj.bias', 'classifier.out_proj.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.49
+  Validation Loss: 0.20
+  Validation took: 0:00:02
+
+Training complete!
+Total training took 0:01:44 (h:mm:ss)
+Best Epoch: 4, Best f1 val score: 0.5.
+----------------------------------------------------------------------------------------------------
+Doing False_60_32_0.0003...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.66
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.09
+  Validation Loss: 0.56
+  Validation took: 0:00:02
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.70
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.00
+  Validation Loss: 0.55
+  Validation took: 0:00:02
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.69
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.00
+  Validation Loss: 0.63
+  Validation took: 0:00:02
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.69
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.00
+  Validation Loss: 0.63
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.69
+  Training epcoh took: 0:00:20
+
+Running Validation...
+Some weights of RobertaForSequenceClassification were not initialized from the model checkpoint at /home/users/nus/e1329380/scratch/models/models--FacebookAI--roberta-base/snapshots/e2da8e2f811d1448a5b465c236feacd80ffbac7b and are newly initialized: ['classifier.dense.bias', 'classifier.dense.weight', 'classifier.out_proj.bias', 'classifier.out_proj.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.00
+  Validation Loss: 0.67
+  Validation took: 0:00:02
+
+Training complete!
+Total training took 0:01:51 (h:mm:ss)
+Best Epoch: 1, Best f1 val score: 0.08695652173913043.
+----------------------------------------------------------------------------------------------------
+Doing False_60_32_0.0001...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.52
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.40
+  Validation Loss: 0.26
+  Validation took: 0:00:02
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.22
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.32
+  Validation Loss: 0.41
+  Validation took: 0:00:02
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.13
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.46
+  Validation Loss: 0.27
+  Validation took: 0:00:02
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.07
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.50
+  Validation Loss: 0.26
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.03
+  Training epcoh took: 0:00:20
+
+Running Validation...
+Some weights of RobertaForSequenceClassification were not initialized from the model checkpoint at /home/users/nus/e1329380/scratch/models/models--FacebookAI--roberta-base/snapshots/e2da8e2f811d1448a5b465c236feacd80ffbac7b and are newly initialized: ['classifier.dense.bias', 'classifier.dense.weight', 'classifier.out_proj.bias', 'classifier.out_proj.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.49
+  Validation Loss: 0.34
+  Validation took: 0:00:02
+
+Training complete!
+Total training took 0:01:51 (h:mm:ss)
+Best Epoch: 4, Best f1 val score: 0.5.
+----------------------------------------------------------------------------------------------------
+Doing False_60_32_5e-05...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.52
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.51
+  Validation Loss: 0.18
+  Validation took: 0:00:02
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.27
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.32
+  Validation Loss: 0.51
+  Validation took: 0:00:02
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.13
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.46
+  Validation Loss: 0.25
+  Validation took: 0:00:02
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.07
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.43
+  Validation Loss: 0.37
+  Validation took: 0:00:01
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.04
+  Training epcoh took: 0:00:19
+
+Running Validation...
+Some weights of RobertaForSequenceClassification were not initialized from the model checkpoint at /home/users/nus/e1329380/scratch/models/models--FacebookAI--roberta-base/snapshots/e2da8e2f811d1448a5b465c236feacd80ffbac7b and are newly initialized: ['classifier.dense.bias', 'classifier.dense.weight', 'classifier.out_proj.bias', 'classifier.out_proj.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.39
+  Validation Loss: 0.33
+  Validation took: 0:00:01
+
+Training complete!
+Total training took 0:01:51 (h:mm:ss)
+Best Epoch: 1, Best f1 val score: 0.5128205128205128.
+----------------------------------------------------------------------------------------------------
+Doing False_60_64_0.0003...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.71
+  Training epcoh took: 0:00:17
+
+Running Validation...
+  Valition F1 score: 0.00
+  Validation Loss: 0.64
+  Validation took: 0:00:01
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.70
+  Training epcoh took: 0:00:17
+
+Running Validation...
+  Valition F1 score: 0.00
+  Validation Loss: 0.62
+  Validation took: 0:00:01
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.70
+  Training epcoh took: 0:00:17
+
+Running Validation...
+  Valition F1 score: 0.09
+  Validation Loss: 0.78
+  Validation took: 0:00:01
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.70
+  Training epcoh took: 0:00:18
+
+Running Validation...
+  Valition F1 score: 0.00
+  Validation Loss: 0.68
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.69
+  Training epcoh took: 0:00:18
+
+Running Validation...
+Some weights of RobertaForSequenceClassification were not initialized from the model checkpoint at /home/users/nus/e1329380/scratch/models/models--FacebookAI--roberta-base/snapshots/e2da8e2f811d1448a5b465c236feacd80ffbac7b and are newly initialized: ['classifier.dense.bias', 'classifier.dense.weight', 'classifier.out_proj.bias', 'classifier.out_proj.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.00
+  Validation Loss: 0.66
+  Validation took: 0:00:02
+
+Training complete!
+Total training took 0:01:34 (h:mm:ss)
+Best Epoch: 3, Best f1 val score: 0.08560311284046693.
+----------------------------------------------------------------------------------------------------
+Doing False_60_64_0.0001...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.60
+  Training epcoh took: 0:00:18
+
+Running Validation...
+  Valition F1 score: 0.30
+  Validation Loss: 0.42
+  Validation took: 0:00:02
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.32
+  Training epcoh took: 0:00:18
+
+Running Validation...
+  Valition F1 score: 0.33
+  Validation Loss: 0.39
+  Validation took: 0:00:02
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.13
+  Training epcoh took: 0:00:18
+
+Running Validation...
+  Valition F1 score: 0.46
+  Validation Loss: 0.27
+  Validation took: 0:00:02
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.09
+  Training epcoh took: 0:00:18
+
+Running Validation...
+  Valition F1 score: 0.47
+  Validation Loss: 0.26
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.06
+  Training epcoh took: 0:00:18
+
+Running Validation...
+Some weights of RobertaForSequenceClassification were not initialized from the model checkpoint at /home/users/nus/e1329380/scratch/models/models--FacebookAI--roberta-base/snapshots/e2da8e2f811d1448a5b465c236feacd80ffbac7b and are newly initialized: ['classifier.dense.bias', 'classifier.dense.weight', 'classifier.out_proj.bias', 'classifier.out_proj.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.53
+  Validation Loss: 0.25
+  Validation took: 0:00:02
+
+Training complete!
+Total training took 0:01:39 (h:mm:ss)
+Best Epoch: 5, Best f1 val score: 0.5306122448979592.
+----------------------------------------------------------------------------------------------------
+Doing False_60_64_5e-05...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.53
+  Training epcoh took: 0:00:18
+
+Running Validation...
+  Valition F1 score: 0.43
+  Validation Loss: 0.21
+  Validation took: 0:00:02
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.23
+  Training epcoh took: 0:00:18
+
+Running Validation...
+  Valition F1 score: 0.43
+  Validation Loss: 0.21
+  Validation took: 0:00:02
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.10
+  Training epcoh took: 0:00:18
+
+Running Validation...
+  Valition F1 score: 0.49
+  Validation Loss: 0.21
+  Validation took: 0:00:02
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.05
+  Training epcoh took: 0:00:18
+
+Running Validation...
+  Valition F1 score: 0.60
+  Validation Loss: 0.21
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.03
+  Training epcoh took: 0:00:18
+
+Running Validation...
+Some weights of RobertaForSequenceClassification were not initialized from the model checkpoint at /home/users/nus/e1329380/scratch/models/models--FacebookAI--roberta-base/snapshots/e2da8e2f811d1448a5b465c236feacd80ffbac7b and are newly initialized: ['classifier.dense.bias', 'classifier.dense.weight', 'classifier.out_proj.bias', 'classifier.out_proj.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.59
+  Validation Loss: 0.22
+  Validation took: 0:00:02
+
+Training complete!
+Total training took 0:01:39 (h:mm:ss)
+Best Epoch: 4, Best f1 val score: 0.5964912280701754.
+----------------------------------------------------------------------------------------------------
+Doing False_60_128_0.0003...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.75
+  Training epcoh took: 0:00:17
+
+Running Validation...
+  Valition F1 score: 0.00
+  Validation Loss: 0.57
+  Validation took: 0:00:01
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.70
+  Training epcoh took: 0:00:17
+
+Running Validation...
+  Valition F1 score: 0.09
+  Validation Loss: 0.70
+  Validation took: 0:00:01
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.70
+  Training epcoh took: 0:00:17
+
+Running Validation...
+  Valition F1 score: 0.00
+  Validation Loss: 0.58
+  Validation took: 0:00:01
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.70
+  Training epcoh took: 0:00:17
+
+Running Validation...
+  Valition F1 score: 0.00
+  Validation Loss: 0.60
+  Validation took: 0:00:01
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.70
+  Training epcoh took: 0:00:17
+
+Running Validation...
+Some weights of RobertaForSequenceClassification were not initialized from the model checkpoint at /home/users/nus/e1329380/scratch/models/models--FacebookAI--roberta-base/snapshots/e2da8e2f811d1448a5b465c236feacd80ffbac7b and are newly initialized: ['classifier.dense.bias', 'classifier.dense.weight', 'classifier.out_proj.bias', 'classifier.out_proj.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.00
+  Validation Loss: 0.69
+  Validation took: 0:00:01
+
+Training complete!
+Total training took 0:01:32 (h:mm:ss)
+Best Epoch: 2, Best f1 val score: 0.08560311284046693.
+----------------------------------------------------------------------------------------------------
+Doing False_60_128_0.0001...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.62
+  Training epcoh took: 0:00:17
+
+Running Validation...
+  Valition F1 score: 0.23
+  Validation Loss: 0.54
+  Validation took: 0:00:01
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.30
+  Training epcoh took: 0:00:17
+
+Running Validation...
+  Valition F1 score: 0.46
+  Validation Loss: 0.21
+  Validation took: 0:00:01
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.12
+  Training epcoh took: 0:00:17
+
+Running Validation...
+  Valition F1 score: 0.48
+  Validation Loss: 0.19
+  Validation took: 0:00:01
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.07
+  Training epcoh took: 0:00:17
+
+Running Validation...
+  Valition F1 score: 0.45
+  Validation Loss: 0.26
+  Validation took: 0:00:01
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.04
+  Training epcoh took: 0:00:17
+
+Running Validation...
+Some weights of RobertaForSequenceClassification were not initialized from the model checkpoint at /home/users/nus/e1329380/scratch/models/models--FacebookAI--roberta-base/snapshots/e2da8e2f811d1448a5b465c236feacd80ffbac7b and are newly initialized: ['classifier.dense.bias', 'classifier.dense.weight', 'classifier.out_proj.bias', 'classifier.out_proj.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.52
+  Validation Loss: 0.22
+  Validation took: 0:00:01
+
+Training complete!
+Total training took 0:01:31 (h:mm:ss)
+Best Epoch: 5, Best f1 val score: 0.5185185185185185.
+----------------------------------------------------------------------------------------------------
+Doing False_60_128_5e-05...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.62
+  Training epcoh took: 0:00:17
+
+Running Validation...
+  Valition F1 score: 0.40
+  Validation Loss: 0.24
+  Validation took: 0:00:01
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.33
+  Training epcoh took: 0:00:17
+
+Running Validation...
+  Valition F1 score: 0.36
+  Validation Loss: 0.31
+  Validation took: 0:00:01
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.17
+  Training epcoh took: 0:00:15
+
+Running Validation...
+  Valition F1 score: 0.52
+  Validation Loss: 0.19
+  Validation took: 0:00:01
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.08
+  Training epcoh took: 0:00:16
+
+Running Validation...
+  Valition F1 score: 0.48
+  Validation Loss: 0.24
+  Validation took: 0:00:01
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.04
+  Training epcoh took: 0:00:16
+
+Running Validation...
+Some weights of RobertaForSequenceClassification were not initialized from the model checkpoint at /home/users/nus/e1329380/scratch/models/models--FacebookAI--roberta-base/snapshots/e2da8e2f811d1448a5b465c236feacd80ffbac7b and are newly initialized: ['classifier.dense.bias', 'classifier.dense.weight', 'classifier.out_proj.bias', 'classifier.out_proj.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.41
+  Validation Loss: 0.23
+  Validation took: 0:00:01
+
+Training complete!
+Total training took 0:01:27 (h:mm:ss)
+Best Epoch: 3, Best f1 val score: 0.5172413793103449.
+----------------------------------------------------------------------------------------------------
+Doing False_70_32_0.0003...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.70
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.00
+  Validation Loss: 0.55
+  Validation took: 0:00:02
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.70
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.00
+  Validation Loss: 0.62
+  Validation took: 0:00:02
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.70
+  Training epcoh took: 0:00:23
+
+Running Validation...
+  Valition F1 score: 0.00
+  Validation Loss: 0.67
+  Validation took: 0:00:02
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.70
+  Training epcoh took: 0:00:23
+
+Running Validation...
+  Valition F1 score: 0.09
+  Validation Loss: 0.77
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.70
+  Training epcoh took: 0:00:23
+
+Running Validation...
+Some weights of RobertaForSequenceClassification were not initialized from the model checkpoint at /home/users/nus/e1329380/scratch/models/models--FacebookAI--roberta-base/snapshots/e2da8e2f811d1448a5b465c236feacd80ffbac7b and are newly initialized: ['classifier.dense.bias', 'classifier.dense.weight', 'classifier.out_proj.bias', 'classifier.out_proj.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.00
+  Validation Loss: 0.67
+  Validation took: 0:00:02
+
+Training complete!
+Total training took 0:02:00 (h:mm:ss)
+Best Epoch: 4, Best f1 val score: 0.08560311284046693.
+----------------------------------------------------------------------------------------------------
+Doing False_70_32_0.0001...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.54
+  Training epcoh took: 0:00:22
+
+Running Validation...
+  Valition F1 score: 0.39
+  Validation Loss: 0.29
+  Validation took: 0:00:02
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.25
+  Training epcoh took: 0:00:23
+
+Running Validation...
+  Valition F1 score: 0.34
+  Validation Loss: 0.40
+  Validation took: 0:00:02
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.16
+  Training epcoh took: 0:00:23
+
+Running Validation...
+  Valition F1 score: 0.24
+  Validation Loss: 0.88
+  Validation took: 0:00:02
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.08
+  Training epcoh took: 0:00:23
+
+Running Validation...
+  Valition F1 score: 0.43
+  Validation Loss: 0.31
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.04
+  Training epcoh took: 0:00:23
+
+Running Validation...
+Some weights of RobertaForSequenceClassification were not initialized from the model checkpoint at /home/users/nus/e1329380/scratch/models/models--FacebookAI--roberta-base/snapshots/e2da8e2f811d1448a5b465c236feacd80ffbac7b and are newly initialized: ['classifier.dense.bias', 'classifier.dense.weight', 'classifier.out_proj.bias', 'classifier.out_proj.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.45
+  Validation Loss: 0.29
+  Validation took: 0:00:02
+
+Training complete!
+Total training took 0:02:04 (h:mm:ss)
+Best Epoch: 5, Best f1 val score: 0.4489795918367347.
+----------------------------------------------------------------------------------------------------
+Doing False_70_32_5e-05...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.51
+  Training epcoh took: 0:00:23
+
+Running Validation...
+  Valition F1 score: 0.33
+  Validation Loss: 0.44
+  Validation took: 0:00:02
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.18
+  Training epcoh took: 0:00:23
+
+Running Validation...
+  Valition F1 score: 0.60
+  Validation Loss: 0.20
+  Validation took: 0:00:02
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.10
+  Training epcoh took: 0:00:23
+
+Running Validation...
+  Valition F1 score: 0.46
+  Validation Loss: 0.21
+  Validation took: 0:00:02
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.04
+  Training epcoh took: 0:00:23
+
+Running Validation...
+  Valition F1 score: 0.51
+  Validation Loss: 0.30
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.02
+  Training epcoh took: 0:00:23
+
+Running Validation...
+Some weights of RobertaForSequenceClassification were not initialized from the model checkpoint at /home/users/nus/e1329380/scratch/models/models--FacebookAI--roberta-base/snapshots/e2da8e2f811d1448a5b465c236feacd80ffbac7b and are newly initialized: ['classifier.dense.bias', 'classifier.dense.weight', 'classifier.out_proj.bias', 'classifier.out_proj.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.50
+  Validation Loss: 0.31
+  Validation took: 0:00:02
+
+Training complete!
+Total training took 0:02:05 (h:mm:ss)
+Best Epoch: 2, Best f1 val score: 0.5957446808510638.
+----------------------------------------------------------------------------------------------------
+Doing False_70_64_0.0003...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.63
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.34
+  Validation Loss: 0.34
+  Validation took: 0:00:02
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.45
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.23
+  Validation Loss: 0.71
+  Validation took: 0:00:02
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.36
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.23
+  Validation Loss: 0.64
+  Validation took: 0:00:02
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.30
+  Training epcoh took: 0:00:21
+
+Running Validation...
+  Valition F1 score: 0.28
+  Validation Loss: 0.40
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.20
+  Training epcoh took: 0:00:20
+
+Running Validation...
+Some weights of RobertaForSequenceClassification were not initialized from the model checkpoint at /home/users/nus/e1329380/scratch/models/models--FacebookAI--roberta-base/snapshots/e2da8e2f811d1448a5b465c236feacd80ffbac7b and are newly initialized: ['classifier.dense.bias', 'classifier.dense.weight', 'classifier.out_proj.bias', 'classifier.out_proj.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.26
+  Validation Loss: 0.43
+  Validation took: 0:00:02
+
+Training complete!
+Total training took 0:01:53 (h:mm:ss)
+Best Epoch: 1, Best f1 val score: 0.3389830508474576.
+----------------------------------------------------------------------------------------------------
+Doing False_70_64_0.0001...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.54
+  Training epcoh took: 0:00:20
+
+Running Validation...
+  Valition F1 score: 0.25
+  Validation Loss: 0.77
+  Validation took: 0:00:02
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.22
+  Training epcoh took: 0:00:20
+
+Running Validation...
+  Valition F1 score: 0.46
+  Validation Loss: 0.26
+  Validation took: 0:00:02
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.10
+  Training epcoh took: 0:00:19
+
+Running Validation...
+  Valition F1 score: 0.46
+  Validation Loss: 0.35
+  Validation took: 0:00:02
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.05
+  Training epcoh took: 0:00:19
+
+Running Validation...
+  Valition F1 score: 0.44
+  Validation Loss: 0.35
+  Validation took: 0:00:02
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.02
+  Training epcoh took: 0:00:15
+
+Running Validation...
+Some weights of RobertaForSequenceClassification were not initialized from the model checkpoint at /home/users/nus/e1329380/scratch/models/models--FacebookAI--roberta-base/snapshots/e2da8e2f811d1448a5b465c236feacd80ffbac7b and are newly initialized: ['classifier.dense.bias', 'classifier.dense.weight', 'classifier.out_proj.bias', 'classifier.out_proj.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.48
+  Validation Loss: 0.35
+  Validation took: 0:00:01
+
+Training complete!
+Total training took 0:01:42 (h:mm:ss)
+Best Epoch: 5, Best f1 val score: 0.4838709677419355.
+----------------------------------------------------------------------------------------------------
+Doing False_70_64_5e-05...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.56
+  Training epcoh took: 0:00:14
+
+Running Validation...
+  Valition F1 score: 0.41
+  Validation Loss: 0.20
+  Validation took: 0:00:01
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.29
+  Training epcoh took: 0:00:14
+
+Running Validation...
+  Valition F1 score: 0.46
+  Validation Loss: 0.17
+  Validation took: 0:00:01
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.12
+  Training epcoh took: 0:00:14
+
+Running Validation...
+  Valition F1 score: 0.51
+  Validation Loss: 0.21
+  Validation took: 0:00:01
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.07
+  Training epcoh took: 0:00:14
+
+Running Validation...
+  Valition F1 score: 0.50
+  Validation Loss: 0.29
+  Validation took: 0:00:01
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.05
+  Training epcoh took: 0:00:13
+
+Running Validation...
+Some weights of RobertaForSequenceClassification were not initialized from the model checkpoint at /home/users/nus/e1329380/scratch/models/models--FacebookAI--roberta-base/snapshots/e2da8e2f811d1448a5b465c236feacd80ffbac7b and are newly initialized: ['classifier.dense.bias', 'classifier.dense.weight', 'classifier.out_proj.bias', 'classifier.out_proj.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.51
+  Validation Loss: 0.25
+  Validation took: 0:00:01
+
+Training complete!
+Total training took 0:01:16 (h:mm:ss)
+Best Epoch: 3, Best f1 val score: 0.509090909090909.
+----------------------------------------------------------------------------------------------------
+Doing False_70_128_0.0003...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.71
+  Training epcoh took: 0:00:13
+
+Running Validation...
+  Valition F1 score: 0.00
+  Validation Loss: 0.62
+  Validation took: 0:00:01
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.70
+  Training epcoh took: 0:00:13
+
+Running Validation...
+  Valition F1 score: 0.09
+  Validation Loss: 0.74
+  Validation took: 0:00:01
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.70
+  Training epcoh took: 0:00:13
+
+Running Validation...
+  Valition F1 score: 0.09
+  Validation Loss: 0.79
+  Validation took: 0:00:01
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.70
+  Training epcoh took: 0:00:13
+
+Running Validation...
+  Valition F1 score: 0.09
+  Validation Loss: 0.74
+  Validation took: 0:00:01
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.70
+  Training epcoh took: 0:00:13
+
+Running Validation...
+Some weights of RobertaForSequenceClassification were not initialized from the model checkpoint at /home/users/nus/e1329380/scratch/models/models--FacebookAI--roberta-base/snapshots/e2da8e2f811d1448a5b465c236feacd80ffbac7b and are newly initialized: ['classifier.dense.bias', 'classifier.dense.weight', 'classifier.out_proj.bias', 'classifier.out_proj.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.00
+  Validation Loss: 0.66
+  Validation took: 0:00:01
+
+Training complete!
+Total training took 0:01:12 (h:mm:ss)
+Best Epoch: 2, Best f1 val score: 0.08560311284046693.
+----------------------------------------------------------------------------------------------------
+Doing False_70_128_0.0001...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.66
+  Training epcoh took: 0:00:13
+
+Running Validation...
+  Valition F1 score: 0.29
+  Validation Loss: 0.52
+  Validation took: 0:00:01
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.36
+  Training epcoh took: 0:00:13
+
+Running Validation...
+  Valition F1 score: 0.49
+  Validation Loss: 0.22
+  Validation took: 0:00:01
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.15
+  Training epcoh took: 0:00:13
+
+Running Validation...
+  Valition F1 score: 0.52
+  Validation Loss: 0.22
+  Validation took: 0:00:01
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.09
+  Training epcoh took: 0:00:13
+
+Running Validation...
+  Valition F1 score: 0.60
+  Validation Loss: 0.18
+  Validation took: 0:00:01
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.04
+  Training epcoh took: 0:00:13
+
+Running Validation...
+Some weights of RobertaForSequenceClassification were not initialized from the model checkpoint at /home/users/nus/e1329380/scratch/models/models--FacebookAI--roberta-base/snapshots/e2da8e2f811d1448a5b465c236feacd80ffbac7b and are newly initialized: ['classifier.dense.bias', 'classifier.dense.weight', 'classifier.out_proj.bias', 'classifier.out_proj.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.52
+  Validation Loss: 0.21
+  Validation took: 0:00:01
+
+Training complete!
+Total training took 0:01:12 (h:mm:ss)
+Best Epoch: 4, Best f1 val score: 0.6037735849056604.
+----------------------------------------------------------------------------------------------------
+Doing False_70_128_5e-05...
+
+======== Epoch 1 / 5 ========
+Training...
+
+  Average training loss: 0.65
+  Training epcoh took: 0:00:13
+
+Running Validation...
+  Valition F1 score: 0.37
+  Validation Loss: 0.28
+  Validation took: 0:00:01
+
+======== Epoch 2 / 5 ========
+Training...
+
+  Average training loss: 0.34
+  Training epcoh took: 0:00:13
+
+Running Validation...
+  Valition F1 score: 0.41
+  Validation Loss: 0.28
+  Validation took: 0:00:01
+
+======== Epoch 3 / 5 ========
+Training...
+
+  Average training loss: 0.20
+  Training epcoh took: 0:00:06
+
+Running Validation...
+  Valition F1 score: 0.44
+  Validation Loss: 0.23
+  Validation took: 0:00:01
+
+======== Epoch 4 / 5 ========
+Training...
+
+  Average training loss: 0.12
+  Training epcoh took: 0:00:06
+
+Running Validation...
+  Valition F1 score: 0.43
+  Validation Loss: 0.19
+  Validation took: 0:00:01
+
+======== Epoch 5 / 5 ========
+Training...
+
+  Average training loss: 0.08
+  Training epcoh took: 0:00:06
+
+Running Validation...
+Some weights of RobertaForSequenceClassification were not initialized from the model checkpoint at /home/users/nus/e1329380/scratch/models/models--FacebookAI--roberta-base/snapshots/e2da8e2f811d1448a5b465c236feacd80ffbac7b and are newly initialized: ['classifier.dense.bias', 'classifier.dense.weight', 'classifier.out_proj.bias', 'classifier.out_proj.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+  Valition F1 score: 0.46
+  Validation Loss: 0.22
+  Validation took: 0:00:01
+
+Training complete!
+Total training took 0:00:48 (h:mm:ss)
+Best Epoch: 5, Best f1 val score: 0.46153846153846156.
+
+Best Parameters are:
+{'raw': False, 'max_len': 70, 'batch_size': 128, 'lr': 0.0001, 'epochs': 4}
+
+
+======== Epoch 1 / 4 ========
+Training...
+
+  Average training loss: 0.61
+  Training epcoh took: 0:00:07
+
+======== Epoch 2 / 4 ========
+Training...
+
+  Average training loss: 0.35
+  Training epcoh took: 0:00:07
+
+======== Epoch 3 / 4 ========
+Training...
+
+  Average training loss: 0.15
+  Training epcoh took: 0:00:07
+
+======== Epoch 4 / 4 ========
+Training...
+
+  Average training loss: 0.07
+  Training epcoh took: 0:00:07
+
+Training complete!
+Total training took 0:00:30 (h:mm:ss)
+Best Epoch: None, Best f1 val score: None.
+Number of test sentences: 1,324
+
+DONE.
+
+Test F1 score is 0.39751552795031053
+
+Test Classification Report is:
+              precision    recall  f1-score   support
+
+     neutral       0.97      0.95      0.96      1256
+     disgust       0.34      0.47      0.40        68
+
+    accuracy                           0.93      1324
+   macro avg       0.66      0.71      0.68      1324
+weighted avg       0.94      0.93      0.93      1324
+
