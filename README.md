@@ -4,10 +4,9 @@
 - All our jupyter notebooks were created and run in Google Colab.
 - You can use our Colab links provided below (recommended), or manually import the notebooks in this repository into Colab.
 - You are highly recommended to use Colab as we do not explicitly pip install any python libraries already included in Colab.
-- Please access our Project Workspace here: [Google Drive](https://drive.google.com/drive/folders/12nyL0c1F0xrYTEIx4TzRlNKcxRRwpyGk?usp=drive_link)
 
 ### Data Downloads
-- Our scripts already perform the downloading of data available in this repository automatically.
+- Our notebook already perform the downloading of data available in this repository automatically.
 - However, in the unlikely event that the data is unavailable, you may download the contents of the "data" folder available in this repository.
 
 | Directory | Contents |
@@ -32,12 +31,10 @@
 | Link to Colab | Script | Contents |
 |-----|:--------|:-----------|
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1W0lXmPfl_3I41pnIOJ1OttLyOpvdokVJ?usp=sharing) | decision_trees.ipynb | Experiments on emotion classification with Decision Trees and Random Forests.  |
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | logistic_regression.ipynb | Experiments on emotion classification with Logistic Regression. |
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1e8Q0trb1bVDK5XQPuHo0pvBQu3dzrYW9/view?usp=sharing) | logistic_regression_sentiment.ipynb | Experiments on sentiment classification with Logistic Regression. |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1NWwVAN4NDNhpfEn6k02uaY-iCCJqF2um/view?usp=sharing) | logistic_regression.ipynb | Experiments on emotion classification with Logistic Regression. |
 
 ### Deep Learning Models
 | Link to Colab | Script | Contents |
 |-----|:--------|:-----------|
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/151wnoLEw3v8cQj7mNbWQhS1P8i_g0FPY/view?usp=sharing) | deep_learn_dialogues.ipynb | Experiments on emotion classification at the dialogue level with CRF and RNN.  |
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1v9k3hxvFgD9Za72pnwjz9guxRR8ypGOa/view?usp=sharing) | deep_learn_dialogue_sentiment.ipynb | Experiments on sentiment classification.  |
-| N/A | trainer.py | Python script for running model training in the background. |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/151wnoLEw3v8cQj7mNbWQhS1P8i_g0FPY/view?usp=sharing) | deep_learn_dialogues.ipynb | Experiments on emotion classification at the dialogue level with CRF and RNN.  <br> For Upper-bound, please run trainer.py (detailed steps described in "deep_learn_dialogues.ipynb") <br> For the rest of the experiments, you may can refer to this notebook. |
+| N/A | trainer.py | Run this file for the trainning and results of the Upper Bound (binary classification). |
