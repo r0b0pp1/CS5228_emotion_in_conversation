@@ -46,5 +46,4 @@ The MELD dataset is obtained from the following research:
 Conversations. arXiv preprint arXiv:1802.08379 (2018)., https://affective-meld.github.io/
 
 [2] S. Poria, D. Hazarika, N. Majumder, G. Naik, R. Mihalcea, E. Cambria. MELD: A Multi-
-modal Multi-Party Dataset for Emotion Recognition in Conversations. (2018), https://affective-
-meld.github.io/
+modal Multi-Party Dataset for Emotion Recognition in Conversations. (2018), https://affective-meld.github.io/
