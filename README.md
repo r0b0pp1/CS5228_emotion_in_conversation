@@ -38,3 +38,11 @@
 |---------------|:--------|:-----------|
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fuY7fTGydp4WmSkN_s85WvtGd-BWuRVp?usp=sharing) | Deep Learning (Dialogues).ipynb | Experiments on emotion classification at utterance level (upper-bound/wo context/w context) and at dialogue level (CRF/RNN).  <br> For upper-bound, please run trainer.py (detailed steps described in "Deep Learning (Dialogues).ipynb") |
 | N/A | trainer.py | Run this file for hyperparameter-tuning, training and evaluating the upper-bound. As it is time-consuming to run, we output the hyperparameter-tuning results and test results in the "logs" folder. |
+
+### Citation
+The MELD dataset is obtained from the following research:
+[1] Chen, S.Y., Hsu, C.C., Kuo, C.C. and Ku, L.W. EmotionLines: An Emotion Corpus of Multi-Party
+Conversations. arXiv preprint arXiv:1802.08379 (2018)., https://affective-meld.github.io/
+[2] S. Poria, D. Hazarika, N. Majumder, G. Naik, R. Mihalcea, E. Cambria. MELD: A Multi-
+modal Multi-Party Dataset for Emotion Recognition in Conversations. (2018), https://affective-
+meld.github.io/
