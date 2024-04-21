@@ -43,6 +43,7 @@
 The MELD dataset is obtained from the following research:
 [1] Chen, S.Y., Hsu, C.C., Kuo, C.C. and Ku, L.W. EmotionLines: An Emotion Corpus of Multi-Party
 Conversations. arXiv preprint arXiv:1802.08379 (2018)., https://affective-meld.github.io/
+
 [2] S. Poria, D. Hazarika, N. Majumder, G. Naik, R. Mihalcea, E. Cambria. MELD: A Multi-
 modal Multi-Party Dataset for Emotion Recognition in Conversations. (2018), https://affective-
 meld.github.io/
