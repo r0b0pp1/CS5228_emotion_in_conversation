@@ -24,19 +24,19 @@
 ### Data Pre-Processing
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Script | Contents |
 |---------------|:--------|:-----------|
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oRXfVLD7EH-108klTXtGIkDnaHWz9SOM?usp=sharing) | Data Pre-processing.ipynb | Data Cleaning Steps <br> Rebalancing of Dataset and related diagrams |
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1G6A2T9J7xBnVg1e5vTVKQS8Ltvkk4-SU?usp=sharing) | Data Visualisation Analysis.ipynb | Utterance Length Analysis <br> Word Clouds <br> Linear Separability of Data with TSNE  |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19OkSlXbkwyKN0BRqzw9WH7sGI9Zq7zSz?usp=sharing) | Data Pre-processing.ipynb | Data Cleaning Steps <br> Rebalancing of Dataset and related diagrams |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16ZG4vAVMpxv98hpZXn8oVFG3X7-Os2QZ?usp=sharing) | Data Visualisation Analysis.ipynb | Utterance Length Analysis <br> Word Clouds <br> Linear Separability of Data with TSNE  |
 
 ### Classical Models
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Script | Contents |
 |---------------|:--------|:-----------|
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1S8Y_Y87lh7K8TGZF4erm17bo2Zx-bdqm?usp=sharing) | Decision Trees.ipynb | Experiments on emotion classification with Decision Trees and Random Forests.  |
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kSzEwnC3tnWLN7ruEzzEQPuWf_46GeHe?usp=sharing) | Logistic Regression.ipynb | Experiments on emotion classification with Logistic Regression. |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1I7R1F33A8QOzFtGJd0y3UtwEz5E8-Za8?usp=sharing) | Decision Trees.ipynb | Experiments on emotion classification with Decision Trees and Random Forests.  |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1w8AWQQaQcOddbErG-KNWQBb2pLKAjuaz?usp=sharing) | Logistic Regression.ipynb | Experiments on emotion classification with Logistic Regression. |
 
 ### Deep Learning Models
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Script | Contents |
 |---------------|:--------|:-----------|
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fuY7fTGydp4WmSkN_s85WvtGd-BWuRVp?usp=sharing) | Deep Learning (Dialogues).ipynb | Experiments on emotion classification at utterance level (upper-bound/wo context/w context) and at dialogue level (CRF/RNN).  <br> For upper-bound, please run trainer.py (detailed steps described in "Deep Learning (Dialogues).ipynb") |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DU--XQ-xl9Vo19HHM-dtdV42MX4FoUNl?usp=sharing) | Deep Learning (Dialogues).ipynb | Experiments on emotion classification at utterance level (upper-bound/wo context/w context) and at dialogue level (CRF/RNN).  <br> For upper-bound, please run trainer.py (detailed steps described in "Deep Learning (Dialogues).ipynb") |
 | N/A | trainer.py | Run this file for hyperparameter-tuning, training and evaluating the upper-bound. As it is time-consuming to run, we output the hyperparameter-tuning results and test results in the "logs" folder. |
 
 ### Citation
